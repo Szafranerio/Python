@@ -9,10 +9,14 @@
 #
 #my_screen.exitonclick()
  
-from prettytable import PrettyTable
+#from prettytable import PrettyTable
+#table = PrettyTable()
+#table.add_column("Pokemon", ['Pikachu', 'Squirtle', 'Charmander'])
+#table.add_column("Type", ['Electrical', 'Water', 'Fire'])
+#table.align ['Pokemon'] = 'l'
+#table.align['Type'] = 'r'
+#table.border = True
+#table.header = True
+#print(table)
 
-table = PrettyTable()
 
-
-
-print(table)
