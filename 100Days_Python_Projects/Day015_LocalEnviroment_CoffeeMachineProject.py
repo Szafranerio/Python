@@ -58,5 +58,4 @@ resources = {
 }
 
 while True:
-    choice = input(
-        'What would you like? (espresso/latte/cappuccino/americano/chocolate/tea): ').lower()
+    choice = input('What would you like? (espresso/latte/cappuccino/americano/chocolate/tea): ').lower()
