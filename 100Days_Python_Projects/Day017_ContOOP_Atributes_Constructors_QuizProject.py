@@ -13,6 +13,10 @@ class User():
         self.following += 1
     
 user_1 = User('001', 'Szafranerio', 24, 'Male')
+user_2 = User('002', 'Angela', 24, 'Female')
+
+
+user_1.follow(user_2)
 
 print(f'You are {user_1.name}, your id is {user_1.id} You are allowed to drink, because you are {user_1.age}. You are {user_1.sex}, and you are following {user_1.following} users')
 
