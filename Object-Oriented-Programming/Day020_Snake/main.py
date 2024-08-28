@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
-from snake import Snake
 import time
+from snake import Snake
 
 screen = Screen()
 screen.bgcolor('black')
