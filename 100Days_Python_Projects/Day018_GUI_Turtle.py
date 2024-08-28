@@ -77,5 +77,23 @@ import random
 #5. Challange circle
 
 dot = Turtle()
-dot.shape('dot')
+dot.shape('turtle')
+screen = Screen()
+screen.colormode(255)
 
+def color_more():
+    r = random.randint(0,255)
+    g = random.randint(0,255)
+    b = random.randint(0,222)
+    random_color = (r, g, b)
+    return random_color
+
+dot.speed('fastest')
+
+def draw(size):
+    for _ in range(int(360 / size)):
+        dot.color(color_more())
+        dot.circle(100)
+        dot.setheading(dot.heading() + size)     
+draw(5)
+screen.exitonclick()
