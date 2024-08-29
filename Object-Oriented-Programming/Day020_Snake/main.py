@@ -10,6 +10,12 @@ screen.bgcolor('black')
 screen.title('Snake Game')
 screen.setup(width=600, height=600)
 screen.tracer(0)
+game_is_on = True
+
+decision = screen.textinput("Rules", "Welcome, collect blue points to extend the snake and avoid red. If you collect red point, game is over! Type 'off' to quit")
+if decision == 'off':
+    game_is_on = False
+
 
 
 snake = Snake()
@@ -24,7 +30,7 @@ screen.onkey(snake.right, "Right")
 screen.onkey(snake.left, "Left")
 
 
-game_is_on = True
+
 while game_is_on:
     screen.update()
     time.sleep(0.1)
@@ -36,8 +42,9 @@ while game_is_on:
         snake.extend()
         scoreboard.increase_score()
         
-    if snake.head.distance(obstacles) < 10:
-            game_is_on = False
+    if snake.head.distance(obstacles) < 15:
+        game_is_on = False
+        scoreboard.game_over()
         
     #Detect collision with wall
     if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
