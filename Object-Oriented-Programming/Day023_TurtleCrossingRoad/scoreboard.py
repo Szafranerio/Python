@@ -5,21 +5,18 @@ class Scoreboard(Turtle):
     
     def __init__(self):
         super().__init__()
-        self.color('white')
+        self.color('black')
         self.penup()
         self.hideturtle()
-        level_count = 1
-        self.update_score()
+        self.score = 0
+        self.update_scoreboard()
         
-    def score(self):
+    def update_scoreboard(self):
+        self.goto(-200, 270)
+        self.write(f"Score: {self.score} ", align='center', font=FONT)
+    
+    def increase_score(self):
+        self.score += 1
         self.clear()
-        self.goto(-100, 200)
-        self.write(self.level_count, align='center',
-                   font=('Courier', 80, 'normal'))
-    
-    def next_level(self):
-        self.level_score += 1
-        self.score
-    
+        self.update_scoreboard()
         
-    pass

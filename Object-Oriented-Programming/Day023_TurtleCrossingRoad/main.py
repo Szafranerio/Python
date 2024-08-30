@@ -35,5 +35,6 @@ while game_is_on:
     if player.finish_line():
         player.restart()
         car_manager.level_up()
+        scoreborad.increase_score()
     
 screen.exitonclick()
