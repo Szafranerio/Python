@@ -13,6 +13,7 @@ scoreborad = Scoreboard()
 screen.listen()
 screen.onkey(player.go_up, "Up")
 screen.onkey(player.go_down, "Down")
+screen.onkey(player.restart, 'space')
 
 screen.setup(width=600, height=600)
 screen.tracer(0)
@@ -30,11 +31,16 @@ while game_is_on:
     #Collision
     for car in car_manager.all_cars:
         if car.distance(player) < 20:
+            scoreborad.game_over()
             game_is_on = False
+            
+            
     
     if player.finish_line():
         player.restart()
         car_manager.level_up()
         scoreborad.increase_score()
+        
+    
     
 screen.exitonclick()
