@@ -48,4 +48,4 @@ while game_is_on:
 
 
 screen.exitonclick()
-#Rest of code in OOP folder
+# Rest of code in OOP folder
