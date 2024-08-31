@@ -1,14 +1,12 @@
-import csv 
+#US state game
 
-with open("weather_data.csv") as data_file:
-    data = csv.reader(data_file)
-    temperature = []
-    for row in data:
-        if row[1] != "temp":
-            temperature.append(int(row[1]))
-    print(temperature)
-    
-import pandas 
+import turtle
 
-data = pandas.read_csv('weather_data.csv')
-print(data)
+screen = turtle.Screen()
+screen.title('U.S State Game')
+image = "./data/Day025_US_StateGame/blank_states_img.gif"
+screen.addshape(image)
+
+turtle.shape(image)
+
+screen.exitonclick()
