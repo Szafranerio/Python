@@ -36,4 +36,13 @@ numbers = [int(string) for string in list_of_strings]
 result = [num for num in numbers if num%2==0]
 print(result)
 
-#
+#Dictionary Comprehension
+
+#new_dict = {new_key:new_value for item in list}
+#new_dict = {new_key:new_value for (key,value) in dict.items()}
+#new_dict = {new_key:new_value for (key,value) in dict.items() if test}
+
+names = ['Alex', 'Beth', 'Mark', 'Thomas', 'Patrick']
+
+grades = {}
+
