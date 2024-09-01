@@ -60,4 +60,33 @@ weather_c = {'Monday':12, 'Tuesday':14, 'Wednsday':15, 'Thursday':14, 'Friday': 
 weather_f = {day:(temp_c * 9/5 + 32 ) for (day, temp_c) in weather_c.items()}
 print(weather_f)
 
+#Looping through dictionary
+student_dict = {"student": ['Angela', 'James', 'Thomas', 'Bartek'], "score": [56, 76, 87, 45]}
 
+for (key,value) in student_dict.items():
+    print(value)
+    
+import pandas 
+student_dataframe = pandas.DataFrame(student_dict)
+print(student_dataframe)
+
+#Loop over each of rows in DataFrame
+
+for(index, row) in student_dataframe.iterrows():
+    print(index)
+    print(row.student)
+    
+#NATO Alphabet Project
+
+data = pandas.read_csv('/Users/bartlomiejszafran/Desktop/GitHub/Python/100Days_Python_Projects/data/Day026_NATO_Alphabet/nato_phonetic_alphabet.csv')
+
+print(data.to_dict())
+
+data = {row.letter:row.code for (index, row) in data.iterrows()}
+print(data)
+
+
+name = input('What is your name: ').upper()
+new_name = [letter for letter in name]
+nato_alphabet = [data[letter] for letter in name]
+print(nato_alphabet)
