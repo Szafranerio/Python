@@ -90,39 +90,4 @@ window.title("Password generator")
 
 canvas = Canvas(width=200, height=200, highlightthickness=0)
 lock_png = PhotoImage(
-    file='/Users/bartlomiejszafran/Desktop/GitHub/Python/100Days_Python_Projects/data/Day029_Password/logo.png')
-canvas.create_image(100, 100, image=lock_png)
-canvas.grid(column=1, row=0)
-
-website = Label(text='Website name', font=(FONT_NAME, 12))
-website.grid(column=0, row=1)
-
-
-username = Label(text='Email/Username', font=(FONT_NAME, 12))
-username.grid(column=0, row=2)
-
-password = Label(text='Password', font=(FONT_NAME, 12))
-password.grid(column=0, row=3)
-
-input_website = Entry(width=21)
-input_website.grid(column=1, row=1)
-input_website.focus()
-
-input_username = Entry(width=38)
-input_username.grid(column=1, row=2, columnspan=2)
-input_username.insert(0, 'bartekszafran@icloud.com')
-
-input_pass = Entry(width=21)
-input_pass.grid(column=1, row=3)
-
-generate_button = Button(text='Generate Password', command=gen_password)
-generate_button.grid(column=2, row=3)
-
-check_button = Button(text='Check', command=check_password)
-check_button.grid(column=2, row=1)
-
-add_button = Button(text='Add', width=36, command=save_password)
-add_button.grid(column=1, row=4, columnspan=2)
-
-
-window.mainloop()
+    file='/Users/bartlomiejszafran/Desktop/Git
