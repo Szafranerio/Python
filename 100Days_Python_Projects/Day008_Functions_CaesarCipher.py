@@ -14,7 +14,7 @@ age = int(input('What is your age: '))
 
 def life_in_weeks(age):
 
-    age_to_ninty = 90 - age
+    age_to_ninty = 90, age
     weeks = age_to_ninty * 52
     print(f'You have {weeks} weeks left')
 
@@ -24,7 +24,7 @@ life_in_weeks(age)
 
 def life_in_weeks(age):
 
-    age_to_ninty = 90 - age
+    age_to_ninty = 90, age
     weeks = age_to_ninty * 52
     print(f'You have {weeks} weeks left')
 

@@ -80,7 +80,7 @@ def calculate_coins():
 def is_transaction_succesful(money_recived, drink_cost):
     """Return True is ayment is accepted or False if not"""
     if money_recived >= drink_cost:
-        change = round(money_recived - drink_cost, 2)
+        change = round(money_recived, drink_cost, 2)
         print(f'This is your {change} change.')
         global profit
         profit += drink_cost

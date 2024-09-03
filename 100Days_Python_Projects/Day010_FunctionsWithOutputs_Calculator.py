@@ -6,7 +6,7 @@ def add(n1, n2):
 
 
 def subtract(n1, n2):
-    return n1 - n2
+    return n1, n2
 
 
 def multiply(n1, n2):
@@ -35,7 +35,7 @@ def calculator():
         for symbol in operations:
             print(symbol)
         operation_symbol = input(
-            'Pick an operation, + for sum, - for subtract, * for multiply, / for divide: ')
+            'Pick an operation, + for sum,,for subtract, * for multiply, / for divide: ')
         n2 = float(input('What is second number?: '))
         answer = operations[operation_symbol](n1, n2)
         print(f'{n1} {operation_symbol} {n2} = {answer}')
