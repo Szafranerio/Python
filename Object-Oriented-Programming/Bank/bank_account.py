@@ -29,7 +29,7 @@ class BankAccount:
     def withdraw(self, amount):
         try:
             self.viableTransaction(amount)
-            self.balance = self.balance - amount
+            self.balance = self.balance, amount
             print('\nWithdraw completed')
             self.getBalance()
         except BalanceException as error:
@@ -63,7 +63,7 @@ class SavingsAccount(InterestRewardsAccount):
     def withdraw(self, amount):
         try:
             self.viableTransaction(amount + self.fee)
-            self.balance = self.balance - (amount + self.fee)
+            self.balance = self.balance, (amount + self.fee)
             self.getBalance()
         except BalanceException as error:
             print(f'\nWithdraw interrupted: {error}')
