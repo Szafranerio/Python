@@ -8,18 +8,21 @@ danish_data = pandas.read_csv('./data/Day031_FlashCards/data/danish_words.csv')
 to_learn = danish_data.to_dict(orient='records')
 current_card = {}
 
+
 def next_card():
     global current_card
     current_card = random.choice(to_learn)
     canvas.itemconfig(card_title, text='Danish')
     canvas.itemconfig(card_word, text=current_card['Danish'])
 
+
 def flip_card():
     canvas.itemconfig(card_title, text='English')
-    canvas.itemconfig(card_word, text= current_card['English'])
+    canvas.itemconfig(card_word, text=current_card['English'])
     canvas.itemconfig(card_background, image=back_card)
 
 # User Interface
+
 
 window = Tk()
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
@@ -41,7 +44,8 @@ canvas.grid(column=0, row=0, columnspan=2)
 # Button images
 ok_button = PhotoImage(file='./data/Day031_FlashCards/images/right.png')
 false_button = PhotoImage(file='./data/Day031_FlashCards/images/wrong.png')
-correct_button = Button(image=ok_button, highlightthickness=0, command=next_card)
+correct_button = Button(
+    image=ok_button, highlightthickness=0, command=next_card)
 correct_button.grid(column=1, row=2)
 wrong_button = Button(image=false_button, highlightthickness=0)
 wrong_button.grid(column=0, row=2)
