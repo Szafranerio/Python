@@ -87,3 +87,21 @@ else:
                 f"Email sent to {birthday_person['name']} at {birthday_person['email']}.")
     else:
         print("No birthdays today.")
+
+
+
+#Send to multiple addresses
+import smtplib
+
+mail = 'bartek.test.97@gmail.com'
+password = 'vsmt nnix jzwd vxgx'
+
+with smtplib.SMTP("smtp.gmail.com") as connection:
+    connection.starttls()
+    connection.login(user=mail, password=password)
+    
+    recipients = ['bartek.yest@yahoo.com', 'bartekszafran@icloud.com']
+    
+    msg = 'Subject:Hello\n\nThis is the body of the mail'
+    
+    connection.sendmail(from_addr=mail, to_addrs=recipients, msg=msg)
