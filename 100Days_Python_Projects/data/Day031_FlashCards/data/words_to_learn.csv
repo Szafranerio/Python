@@ -20,7 +20,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 18,18,en ven,a friend
 19,19,en familie,a family
 20,20,en skole,a school
-21,21,at studere,to study
 22,22,en lærer,a teacher
 23,23,en bil,a car
 24,24,at købe,to buy
@@ -71,7 +70,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 71,74,en café,a cafe
 72,75,mad,food
 73,76,en drik,a drink
-74,77,vand,water
 75,78,kaffe,coffee
 76,79,te,tea
 77,80,juice,juice
@@ -87,10 +85,8 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 87,90,peber,pepper
 88,91,frugt,fruit
 89,92,grøntsager,vegetables
-90,93,en salat,a salad
 91,94,en kartoffel,a potato
 92,95,pasta,pasta
-93,96,en kage,a cake
 94,97,is,ice cream
 95,98,en suppe,a soup
 96,99,en sandwich,a sandwich
@@ -195,7 +191,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 196,203,et teater,a theater
 197,204,kunst,art
 198,205,et maleri,a painting
-199,206,en skulptur,a sculpture
 200,207,et museum,a museum
 201,208,en udstilling,an exhibition
 202,209,en ballet,a ballet
@@ -207,5 +202,4 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 208,215,et sprog,a language
 209,216,et ord,a word
 210,217,en sætning,a sentence
-211,218,et bogstav,a letter
 212,219,alfabetet,the alphabet

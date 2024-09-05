@@ -1,1 +1,1 @@
-r
+window.after_cancel(flip_timer)
