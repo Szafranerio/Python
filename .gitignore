@@ -11,18 +11,3 @@ __pycache__/
 # Ignore Git configuration files and directories (if not needed)
 .git/
 .gitattributes
-
-# Ignore specific Python files and directories
-If.py
-Lists introduction.py
-Blackjack.py
-Dictionary baisic.py
-Functioncs basic.py
-While.py
-Sex_roulett_program
-Python_Fun_Projects/
-100Days_Python_Projects/
-Rock Paper Scissors.py
-Object-Oriented-Programming/
-Modules-basic/
-Python-Basics/
