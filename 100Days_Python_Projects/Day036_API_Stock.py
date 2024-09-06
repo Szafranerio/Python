@@ -3,6 +3,8 @@ from twilio.rest import Client
 import os
 from dotenv import load_dotenv
 
+load_dotenv()
+
 STOCK_NAME = input('What is your choice: ')
 COMPANY_NAME = input('What is the name of company: ')
 STOCK_ENDPOINT = os.getenv('STOCK_ENDPOINT')
