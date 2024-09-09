@@ -68,7 +68,7 @@ movies = movies.text
 
 
 soup = BeautifulSoup(movies, 'html.parser')
-title = soup.find_all(name='h3', class_='title')
+
 
 
 titles = [title.getText() for title in soup.find_all(name='h3', class_='title')]
