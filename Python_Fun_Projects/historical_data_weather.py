@@ -1,8 +1,5 @@
 import requests
 import smtplib
-import plotly.graph_objects as go
-import plotly.io as pio
-import plotly.express as px
 from datetime import datetime, timedelta
 
 
@@ -23,14 +20,14 @@ url = (f'https://weather.visualcrossing.com/VisualCrossingWebServices/rest/servi
        f'?unitGroup=metric&include=days&key={api_key}&contentType=json')
 
 # Make the request
-response = requests.get(url)
+data = requests.get(url)
 
 # Check if the request was successful
-if response.status_code == 200:
-    data = response.json()
+if data.status_code == 200:
+    data = data.json()
     print(data)
 else:
-    print(f'Error: {response.status_code}, {response.text}')
+    print(f'Error: {data.status_code}, {data.text}')
 
 
 temp_data = data['days'][0]['temp']
@@ -50,9 +47,3 @@ print(pressure_data)
 
 pressure_data_past_30 = [day['pressure'] for day in data['days']]
 print(pressure_data_past_30)
-
-windspeed_data = data['data'][0]['windspeed']
-print(windspeed_data)
-
-windspeed_data_past_30 = [day['windspeed'] for day in data['days']]
-print(windspeed_data_past_30)
