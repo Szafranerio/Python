@@ -12,3 +12,10 @@ song_names_spans = soup.select("li ul li h3")
 
 titles = [song.getText().strip() for song in song_names_spans]
 print(titles)
+
+with open('music_playlist.txt', 'w') as music_playlist:
+    for music in titles:
+        music_playlist.write(f"{music}\n")
+
+import random 
+print(random.choice(titles))
