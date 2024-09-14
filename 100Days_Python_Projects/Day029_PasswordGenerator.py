@@ -1,3 +1,4 @@
+import pyperclip
 from tkinter import *
 from pathlib import Path
 from tkinter import messagebox
@@ -9,7 +10,7 @@ FONT_NAME = "Courier"
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
-import pyperclip
+
 def gen_password():
     letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y',
                'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -30,6 +31,8 @@ def gen_password():
     pyperclip.copy(password)
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
+
+
 def save_password():
     website = input_website.get()
     username = input_username.get()
@@ -46,7 +49,7 @@ def save_password():
         return
 
     try:
-        
+
         try:
             with open('/Users/bartlomiejszafran/Desktop/data.json', mode="r") as data_file:
                 data = json.load(data_file)
@@ -54,18 +57,19 @@ def save_password():
             data = {}
         except FileNotFoundError:
             data = {}
-        
+
         data.update(new_data)
 
         with open('/Users/bartlomiejszafran/Desktop/data.json', mode="w") as data_file:
             json.dump(data, data_file, indent=4)
-            
+
     except Exception as e:
         messagebox.showerror(title="Error", message=f"An error occurred: {e}")
     finally:
         input_website.delete(0, END)
         input_pass.delete(0, END)
-            
+
+
 def check_password():
     website = input_website.get()
     try:
@@ -77,10 +81,12 @@ def check_password():
         if website in data:
             email = data[website]['email']
             password = data[website]['password']
-            messagebox.showinfo(title=website, message=f'Email: {email}\n Password: {password}')
+            messagebox.showinfo(
+                title=website, message=f'Email: {email}\n Password: {password}')
         else:
-            messagebox.showinfo(title='Error', message=f'No details for {website}')
-            
+            messagebox.showinfo(
+                title='Error', message=f'No details for {website}')
+
 # ---------------------------- UI SETUP ------------------------------- #
 
 
@@ -123,6 +129,5 @@ check_button.grid(column=2, row=1)
 
 add_button = Button(text='Add', width=36, command=save_password)
 add_button.grid(column=1, row=4, columnspan=2)
-
 
 window.mainloop()
