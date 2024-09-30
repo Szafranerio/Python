@@ -8,9 +8,24 @@ import os
 FONT = ('Comic Sans MS', 15, 'bold')
 data = []
 
-def show_help():
-    messagebox.showinfo('Help', 'Choose the type of weight and input the original recipe ingredients. Sum up with the amount of pieces and see how much you need!')
+#Delete all data from data.json before using the program
+def initialize_data_file():
+    data_file_path = './data/data.json'
 
+    if not os.path.exists('./data'):
+        print("Creating data directory...")
+        os.makedirs('./data')
+
+    with open(data_file_path, mode="w") as data_file:
+        json.dump([], data_file)
+        
+initialize_data_file()
+
+def show_help():
+    messagebox.showinfo('Help', 'Enter the orginial recipe and press add. Press calculate and program will calculate how much products you need! Press Clear data to delete whole data from program.')
+
+
+#Add data and calculate
 def add():
     recipe_amount = input_recipe.get()
     weight = input_weight.get()
@@ -32,7 +47,7 @@ def add():
         aimed_amount = int(aimed_amount)
     except ValueError:
         messagebox.showwarning(title="Warning", message="Aimed portion must be a number!")
-        return  # Ensure this return is here to prevent invalid data from being added
+        return
 
     new_data = {
         "name": name,
@@ -49,16 +64,14 @@ def add():
             print("Creating data directory...")
             os.makedirs('./data')
 
-        # Load existing data if the file exists
+        
         if os.path.exists(data_file_path):
             try:
                 with open(data_file_path, mode="r") as data_file:
-                    # Load existing data
                     try:
                         data = json.load(data_file)
                         print(f"Existing data: {data}")
                     except json.JSONDecodeError:
-                        print("Failed to decode JSON, initializing empty list...")
                         data = []
             except Exception as e:
                 messagebox.showerror("Error", f"Could not read data file: {e}")
@@ -66,11 +79,11 @@ def add():
         else:
             data = []
 
-        # Append the new data
+        #Add to data.json
         data.append(new_data)
         print(f"Appending new data: {new_data}")
 
-        # Write the updated data back to the file
+        #Write the updated data back to the file
         with open(data_file_path, mode="w") as data_file:
             json.dump(data, data_file, indent=4)
             print("Data saved successfully!")
@@ -114,14 +127,13 @@ def clear():
     input_weight.delete(0, END)
     input_product_name.delete(0, END)          
 
-# UI setup
+#UI
 window = Tk()
 window.config(padx=25, pady=25, bg="#ffccdd")
 window.geometry('700x300')
 window.title('Cake Converter')
 
-# Info table
-
+#Label, Buttons 
 Label(window, text="Pick amount from recepie: ", bg="#ffccdd", font=FONT).grid(column=0, row=1)
 input_recipe = Entry(window)
 input_recipe.config(highlightbackground="#ffccdd", highlightthickness=2)
@@ -146,7 +158,5 @@ Button(window, text='Help?', command=show_help, highlightbackground="#ffccdd", h
 Button(window, text='Clear data', command=clear, highlightbackground="#ffccdd", highlightcolor="#ffccdd", highlightthickness=4, relief='solid').grid(column=1, row=6)
 Button(window, text='Add', command=add, highlightbackground="#ffccdd", highlightcolor="#ffccdd", highlightthickness=4, relief='solid').grid(column=2, row=5)
 Button(window, text='Calculate', command=calculate, highlightbackground="#ffccdd", highlightcolor="#ffccdd", highlightthickness=4, relief='solid').grid(column=2, row=6)
-
-
 
 window.mainloop()
