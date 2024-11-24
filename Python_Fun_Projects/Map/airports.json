@@ -1,0 +1,1029 @@
+{
+    "airports": [
+      {
+        "name": "Düsseldorf Airport",
+        "code": "DUS",
+        "latitude": 51.2895,
+        "longitude": 6.7668,
+        "email": "info@dus.com",
+        "postal_code": "40474"
+      },
+      {
+        "name": "Hamburg Airport",
+        "code": "HAM",
+        "latitude": 53.6304,
+        "longitude": 9.9886,
+        "email": "info@hamburg-airport.de",
+        "postal_code": "22335"
+      },
+      {
+        "name": "Geneva Airport",
+        "code": "GVA",
+        "latitude": 46.2381,
+        "longitude": 6.1098,
+        "email": "info@geneva-airport.ch",
+        "postal_code": "1215"
+      },
+      {
+        "name": "Lisbon Humberto Delgado Airport",
+        "code": "LIS",
+        "latitude": 38.7812,
+        "longitude": -9.1355,
+        "email": "info@ana.pt",
+        "postal_code": "1000-108"
+      },
+      {
+        "name": "Catania Fontanarossa Airport",
+        "code": "CTA",
+        "latitude": 37.4669,
+        "longitude": 14.9256,
+        "email": "info@aeroporto.catania.it",
+        "postal_code": "95121"
+      },
+      {
+        "name": "Athens International Airport",
+        "code": "ATH",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "email": "info@aia.gr",
+        "postal_code": "190 19"
+      },
+      {
+        "name": "Prague Václav Havel Airport",
+        "code": "PRG",
+        "latitude": 50.1006,
+        "longitude": 14.26,
+        "email": "info@prg.aero",
+        "postal_code": "161 00"
+      },
+      {
+        "name": "Budapest Ferenc Liszt International Airport",
+        "code": "BUD",
+        "latitude": 47.4325,
+        "longitude": 19.2616,
+        "email": "info@bud.hu",
+        "postal_code": "1185"
+      },
+      {
+        "name": "Bologna Guglielmo Marconi Airport",
+        "code": "BLQ",
+        "latitude": 44.5350,
+        "longitude": 11.2882,
+        "email": "info@bologna-airport.it",
+        "postal_code": "40132"
+      },
+      {
+        "name": "Leipzig/Halle Airport",
+        "code": "LEJ",
+        "latitude": 51.4419,
+        "longitude": 12.2365,
+        "email": "info@flughafen-leipzig-halle.de",
+        "postal_code": "04435"
+      },
+      {
+        "name": "Stuttgart Airport",
+        "code": "STR",
+        "latitude": 48.6892,
+        "longitude": 9.2218,
+        "email": "info@stuttgart-airport.com",
+        "postal_code": "70629"
+      },
+      {
+        "name": "Edinburgh Airport",
+        "code": "EDI",
+        "latitude": 55.9502,
+        "longitude": -3.3722,
+        "email": "info@edinburghairport.com",
+        "postal_code": "EH12 9DN"
+      },
+      {
+        "name": "Glasgow Airport",
+        "code": "GLA",
+        "latitude": 55.8713,
+        "longitude": -4.4334,
+        "email": "info@glasgowairport.com",
+        "postal_code": "PA3 2SW"
+      },
+      {
+        "name": "Valencia Airport",
+        "code": "VLC",
+        "latitude": 39.4890,
+        "longitude": -0.4815,
+        "email": "info@aena.es",
+        "postal_code": "46940"
+      },
+      {
+        "name": "Antwerp International Airport",
+        "code": "ANR",
+        "latitude": 51.2891,
+        "longitude": 4.4697,
+        "email": "info@antwerp-airport.be",
+        "postal_code": "2100"
+      },
+      {
+        "name": "Nice Côte d'Azur Airport",
+        "code": "NCE",
+        "latitude": 43.6650,
+        "longitude": 7.2150,
+        "email": "info@nice.aeroport.fr",
+        "postal_code": "06206"
+      },
+      {
+        "name": "Malta International Airport",
+        "code": "MLA",
+        "latitude": 35.8574,
+        "longitude": 14.4779,
+        "email": "info@maltaairport.com",
+        "postal_code": "KMR 1000"
+      },
+      {
+        "name": "Oslo Airport, Gardermoen",
+        "code": "OSL",
+        "latitude": 60.1974,
+        "longitude": 11.1004,
+        "email": "info@osl.no",
+        "postal_code": "2060"
+      },
+      {
+        "name": "Malmö Airport",
+        "code": "MMX",
+        "latitude": 55.5324,
+        "longitude": 13.3710,
+        "email": "info@swedavia.se",
+        "postal_code": "231 22"
+      },
+      {
+        "name": "Copenhagen Airport",
+        "code": "CPH",
+        "latitude": 55.6181,
+        "longitude": 12.6560,
+        "email": "cphweb@cph.dk",
+        "postal_code": "2770"
+      },
+      {
+        "name": "Catania Airport",
+        "code": "CTA",
+        "latitude": 37.4669,
+        "longitude": 14.9256,
+        "email": "info@aeroporto.catania.it",
+        "postal_code": "95121"
+      },
+      {
+        "name": "Zagreb Airport",
+        "code": "ZAG",
+        "latitude": 45.7420,
+        "longitude": 16.0680,
+        "email": "info@zagreb-airport.hr",
+        "postal_code": "10150"
+      },
+      {
+        "name": "Bratislava Airport",
+        "code": "BTS",
+        "latitude": 48.1700,
+        "longitude": 17.2194,
+        "email": "info@airportbratislava.sk",
+        "postal_code": "821 04"
+      },
+      {
+        "name": "Tirana International Airport",
+        "code": "TIA",
+        "latitude": 41.4147,
+        "longitude": 19.7218,
+        "email": "info@tiranairport.com",
+        "postal_code": "1001"
+      },
+      {
+        "name": "Burgas Airport",
+        "code": "BOJ",
+        "latitude": 42.5704,
+        "longitude": 27.5154,
+        "email": "info@burgas-airport.com",
+        "postal_code": "8000"
+      },
+      {
+        "name": "Sofia Airport",
+        "code": "SOF",
+        "latitude": 42.6952,
+        "longitude": 23.3984,
+        "email": "info@sofia-airport.bg",
+        "postal_code": "1540"
+      },
+      {
+        "name": "Athens Eleftherios Venizelos Airport",
+        "code": "ATH",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "email": "info@aia.gr",
+        "postal_code": "190 19"
+      },
+      {
+        "name": "Warsaw Modlin Airport",
+        "code": "WMI",
+        "latitude": 52.4293,
+        "longitude": 20.6772,
+        "email": "info@modlinairport.pl",
+        "postal_code": "05-102"
+      },
+      {
+        "name": "Riga International Airport",
+        "code": "RIX",
+        "latitude": 56.9261,
+        "longitude": 23.9719,
+        "email": "info@riga-airport.com",
+        "postal_code": "1053"
+      },
+      {
+        "name": "Vilnius Airport",
+        "code": "VNO",
+        "latitude": 54.6342,
+        "longitude": 25.2862,
+        "email": "info@vno.aero",
+        "postal_code": "02121"
+      },
+      {
+        "name": "Karlsruhe/Baden-Baden Airport",
+        "code": "FKB",
+        "latitude": 48.7500,
+        "longitude": 8.0856,
+        "email": "info@airport-karlsruhe-baden-baden.de",
+        "postal_code": "77836"
+      },
+      {
+        "name": "Freiburg Airport",
+        "code": "QFB",
+        "latitude": 47.9933,
+        "longitude": 7.8631,
+        "email": "info@freiburg-airport.de",
+        "postal_code": "79108"
+      },
+      {
+        "name": "Nuremberg Airport",
+        "code": "NUE",
+        "latitude": 49.4981,
+        "longitude": 11.0785,
+        "email": "info@airport-nuernberg.de",
+        "postal_code": "90411"
+      },
+      {
+        "name": "Paderborn Lippstadt Airport",
+        "code": "PAD",
+        "latitude": 51.6556,
+        "longitude": 8.5703,
+        "email": "info@paderborn-airport.de",
+        "postal_code": "33142"
+      },
+      {
+        "name": "Rostock-Laage Airport",
+        "code": "RLG",
+        "latitude": 54.0833,
+        "longitude": 12.3833,
+        "email": "info@rostock-airport.de",
+        "postal_code": "18299"
+      },
+      {
+        "name": "Gdańsk Lech Wałęsa Airport",
+        "code": "GDN",
+        "latitude": 54.3770,
+        "longitude": 18.4660,
+        "email": "info@gdanskairport.pl",
+        "postal_code": "80-001"
+      },
+      {
+        "name": "Katowice Airport",
+        "code": "KTW",
+        "latitude": 50.4748,
+        "longitude": 19.0806,
+        "email": "info@katowice-airport.com",
+        "postal_code": "42-625"
+      },
+      {
+        "name": "Poznań-Ławica Airport",
+        "code": "POZ",
+        "latitude": 52.4219,
+        "longitude": 16.8254,
+        "email": "info@airport-poznan.com",
+        "postal_code": "61-041"
+      },
+      {
+        "name": "Bydgoszcz Airport",
+        "code": "BZG",
+        "latitude": 53.1231,
+        "longitude": 18.0464,
+        "email": "info@bydgoszcz-airport.pl",
+        "postal_code": "85-164"
+      },
+      {
+        "name": "Rzeszów–Jasionka Airport",
+        "code": "RZE",
+        "latitude": 50.1100,
+        "longitude": 22.0161,
+        "email": "info@rzeszowairport.pl",
+        "postal_code": "36-002"
+      },
+      {
+        "name": "Bergen Flesland Airport",
+        "code": "BGO",
+        "latitude": 60.2855,
+        "longitude": 5.2180,
+        "email": "info@bergenairport.no",
+        "postal_code": "5869"
+      },
+      {
+        "name": "Stavanger Airport",
+        "code": "SVG",
+        "latitude": 58.8764,
+        "longitude": 5.6350,
+        "email": "info@stavangerairport.no",
+        "postal_code": "4055"
+      },
+      {
+        "name": "Tromsø Airport, Langnes",
+        "code": "TOS",
+        "latitude": 69.6836,
+        "longitude": 18.9181,
+        "email": "info@tromsoairport.no",
+        "postal_code": "9006"
+      },
+      {
+        "name": "Bodø Airport",
+        "code": "BOO",
+        "latitude": 67.2766,
+        "longitude": 14.3713,
+        "email": "info@bodoairport.no",
+        "postal_code": "8003"
+      },
+      {
+        "name": "Kristiansand Airport, Kjevik",
+        "code": "KRS",
+        "latitude": 58.2031,
+        "longitude": 8.1639,
+        "email": "info@krs.no",
+        "postal_code": "4609"
+      },
+      {
+        "name": "Stockholm Bromma Airport",
+        "code": "BMA",
+        "latitude": 59.3547,
+        "longitude": 17.9505,
+        "email": "info@swedavia.se",
+        "postal_code": "168 67"
+      },
+      {
+        "name": "Umeå Airport",
+        "code": "UME",
+        "latitude": 63.8261,
+        "longitude": 20.2769,
+        "email": "info@umeaairport.se",
+        "postal_code": "901 33"
+      },
+      {
+        "name": "Helsingborg Airport",
+        "code": "HEM",
+        "latitude": 56.0833,
+        "longitude": 12.7356,
+        "email": "info@helsingborg-airport.se",
+        "postal_code": "252 78"
+      },
+      {
+        "name": "Visby Airport",
+        "code": "VBY",
+        "latitude": 57.6343,
+        "longitude": 18.2925,
+        "email": "info@visbyairport.se",
+        "postal_code": "621 41"
+      },
+      {
+        "name": "Amsterdam Schiphol Airport",
+        "code": "AMS",
+        "latitude": 52.3086,
+        "longitude": 4.7681,
+        "email": "info@schiphol.nl",
+        "postal_code": "1118 AX"
+      },
+      {
+        "name": "Eindhoven Airport",
+        "code": "EIN",
+        "latitude": 51.4500,
+        "longitude": 5.3747,
+        "email": "info@eindhovenairport.nl",
+        "postal_code": "5657 EA"
+      },
+      {
+        "name": "Rotterdam The Hague Airport",
+        "code": "RTM",
+        "latitude": 51.9569,
+        "longitude": 4.4378,
+        "email": "info@rtm-airport.nl",
+        "postal_code": "3045 AP"
+      },
+      {
+        "name": "Groningen Airport Eelde",
+        "code": "GRQ",
+        "latitude": 53.1186,
+        "longitude": 6.6162,
+        "email": "info@groningen-airport.nl",
+        "postal_code": "9761"
+      },
+      {
+        "name": "Maastricht Aachen Airport",
+        "code": "MST",
+        "latitude": 50.8506,
+        "longitude": 5.7700,
+        "email": "info@maa.nl",
+        "postal_code": "6199 AB"
+      },
+      {
+        "name": "Belfast International Airport",
+        "code": "BFS",
+        "latitude": 54.6581,
+        "longitude": -6.2152,
+        "email": "info@belfastairport.com",
+        "postal_code": "BT29 4AB"
+      },
+      {
+        "name": "George Best Belfast City Airport",
+        "code": "BHD",
+        "latitude": 54.6000,
+        "longitude": -5.8700,
+        "email": "info@belfastcityairport.com",
+        "postal_code": "BT3 9JH"
+      },
+      {
+        "name": "Derry Airport",
+        "code": "LDY",
+        "latitude": 55.0450,
+        "longitude": -7.1975,
+        "email": "info@derryairport.com",
+        "postal_code": "BT47 3PY"
+      },
+      {
+        "name": "Kerry Airport",
+        "code": "KIR",
+        "latitude": 52.1894,
+        "longitude": -9.5234,
+        "email": "info@kerryairport.ie",
+        "postal_code": "V92 PKF2"
+      },
+      {
+        "name": "Knock Airport",
+        "code": "NOC",
+        "latitude": 54.0583,
+        "longitude": -8.6227,
+        "email": "info@knockairport.com",
+        "postal_code": "F12 F694"
+      },
+      {
+        "name": "Memmingen Airport",
+        "code": "FMM",
+        "latitude": 47.9992,
+        "longitude": 10.2273,
+        "email": "info@memmingen-airport.de",
+        "postal_code": "87766"
+      },
+      {
+        "name": "Saarbrücken Airport",
+        "code": "SCN",
+        "latitude": 49.2197,
+        "longitude": 7.1092,
+        "email": "info@saarbruecken-airport.de",
+        "postal_code": "66129"
+      },
+      {
+        "name": "Weeze Airport",
+        "code": "NRN",
+        "latitude": 51.5983,
+        "longitude": 6.1397,
+        "email": "info@weez-airport.de",
+        "postal_code": "47652"
+      },
+      {
+        "name": "Hannover Airport",
+        "code": "HAJ",
+        "latitude": 52.4600,
+        "longitude": 9.6850,
+        "email": "info@hannover-airport.de",
+        "postal_code": "30855"
+      },
+      {
+        "name": "Friedrichshafen Airport",
+        "code": "FDH",
+        "latitude": 47.6593,
+        "longitude": 9.4936,
+        "email": "info@friedrichshafen-airport.de",
+        "postal_code": "88046"
+      },
+      {
+        "name": "Lublin Airport",
+        "code": "LUZ",
+        "latitude": 51.2423,
+        "longitude": 22.8213,
+        "email": "info@lublinairport.pl",
+        "postal_code": "21-500"
+      },
+      {
+        "name": "Łódź Airport",
+        "code": "LCJ",
+        "latitude": 51.7214,
+        "longitude": 19.3789,
+        "email": "info@airport.lodz.pl",
+        "postal_code": "94-328"
+      },
+      {
+        "name": "Olsztyn-Mazury Airport",
+        "code": "SZY",
+        "latitude": 53.4864,
+        "longitude": 20.4653,
+        "email": "info@mazuryairport.pl",
+        "postal_code": "11-040"
+      },
+      {
+        "name": "Rzeszów Airport",
+        "code": "RZE",
+        "latitude": 50.1100,
+        "longitude": 22.0161,
+        "email": "info@rzeszowairport.pl",
+        "postal_code": "36-002"
+      },
+      {
+        "name": "Bodø Airport",
+        "code": "BOO",
+        "latitude": 67.2766,
+        "longitude": 14.3713,
+        "email": "info@bodoairport.no",
+        "postal_code": "8003"
+      },
+      {
+        "name": "Harstad/Narvik Airport",
+        "code": "EVE",
+        "latitude": 68.4670,
+        "longitude": 16.6811,
+        "email": "info@evenesairport.no",
+        "postal_code": "8536"
+      },
+      {
+        "name": "Mo i Rana Airport",
+        "code": "MQN",
+        "latitude": 66.3131,
+        "longitude": 14.1725,
+        "email": "info@moiranaairport.no",
+        "postal_code": "8613"
+      },
+      {
+        "name": "Sandefjord Airport, Torp",
+        "code": "TRF",
+        "latitude": 59.1895,
+        "longitude": 10.2490,
+        "email": "info@torp.no",
+        "postal_code": "3241"
+      },
+      {
+        "name": "Hämeenlinna Airport",
+        "code": "HML",
+        "latitude": 60.9621,
+        "longitude": 24.4727,
+        "email": "info@hml-airport.fi",
+        "postal_code": "13100"
+      },
+      {
+        "name": "Oulu Airport",
+        "code": "OUL",
+        "latitude": 64.9297,
+        "longitude": 25.3653,
+        "email": "info@ouluairport.fi",
+        "postal_code": "90460"
+      },
+      {
+        "name": "Kemi-Tornio Airport",
+        "code": "KEM",
+        "latitude": 65.7360,
+        "longitude": 24.6196,
+        "email": "info@kemi-airport.fi",
+        "postal_code": "94500"
+      },
+      {
+        "name": "Gällivare Airport",
+        "code": "GEV",
+        "latitude": 67.0338,
+        "longitude": 20.6905,
+        "email": "info@gallivareairport.se",
+        "postal_code": "982 02"
+      },
+      {
+        "name": "Jönköping Airport",
+        "code": "JKG",
+        "latitude": 57.7826,
+        "longitude": 14.1641,
+        "email": "info@jonkopingairport.se",
+        "postal_code": "554 54"
+      },
+      {
+        "name": "Örebro Airport",
+        "code": "ORB",
+        "latitude": 59.2056,
+        "longitude": 15.2106,
+        "email": "info@orebroairport.se",
+        "postal_code": "703 81"
+      },
+      {
+        "name": "Luleå Airport",
+        "code": "LLA",
+        "latitude": 65.5403,
+        "longitude": 22.1361,
+        "email": "info@luleaairport.se",
+        "postal_code": "972 99"
+      },
+      {
+        "name": "Rotterdam Airport",
+        "code": "RTM",
+        "latitude": 51.9569,
+        "longitude": 4.4378,
+        "email": "info@rotterdamairport.nl",
+        "postal_code": "3045 AP"
+      },
+      {
+        "name": "Bonaire Airport",
+        "code": "BON",
+        "latitude": 12.1492,
+        "longitude": -68.2658,
+        "email": "info@bonaireairport.com",
+        "postal_code": "0000"
+      },
+      {
+        "name": "Zagreb Airport",
+        "code": "ZAG",
+        "latitude": 45.7424,
+        "longitude": 16.0685,
+        "email": "info@zagreb-airport.hr",
+        "postal_code": "10150"
+      },
+      {
+        "name": "Sofia Airport",
+        "code": "SOF",
+        "latitude": 42.6963,
+        "longitude": 23.4006,
+        "email": "info@sofia-airport.bg",
+        "postal_code": "1540"
+      },
+      {
+        "name": "Prague Václav Havel Airport",
+        "code": "PRG",
+        "latitude": 50.1005,
+        "longitude": 14.26,
+        "email": "info@pragueairport.co.uk",
+        "postal_code": "161 00"
+      },
+      {
+        "name": "Aalborg Airport",
+        "code": "AAL",
+        "latitude": 57.1042,
+        "longitude": 9.8453,
+        "email": "info@aal.dk",
+        "postal_code": "9000"
+      },
+      {
+        "name": "Billund Airport",
+        "code": "BLL",
+        "latitude": 55.7403,
+        "longitude": 9.1518,
+        "email": "info@bll.dk",
+        "postal_code": "7190"
+      },
+      {
+        "name": "Esbjerg Airport",
+        "code": "EBJ",
+        "latitude": 55.4762,
+        "longitude": 8.6151,
+        "email": "info@esbjerg-airport.dk",
+        "postal_code": "6705"
+      },
+      {
+        "name": "Karup Airport",
+        "code": "KRP",
+        "latitude": 56.1392,
+        "longitude": 8.9433,
+        "email": "info@karup.dk",
+        "postal_code": "7470"
+      },
+      {
+        "name": "Bornholm Airport",
+        "code": "RNN",
+        "latitude": 55.0826,
+        "longitude": 14.7139,
+        "email": "info@bornholmairport.dk",
+        "postal_code": "3700"
+      },
+      {
+        "name": "Odense Airport",
+        "code": "ODE",
+        "latitude": 55.4203,
+        "longitude": 10.3327,
+        "email": "info@odenseairport.dk",
+        "postal_code": "5230"
+      },
+      {
+        "name": "Sonderborg Airport",
+        "code": "SGD",
+        "latitude": 54.9223,
+        "longitude": 9.8063,
+        "email": "info@sonderborgairport.dk",
+        "postal_code": "6400"
+      },
+      {
+        "name": "Västerås Airport",
+        "code": "VST",
+        "latitude": 59.5930,
+        "longitude": 16.5220,
+        "email": "info@vasterasairport.se",
+        "postal_code": "722 12"
+      },
+      {
+        "name": "Visby Airport",
+        "code": "VBY",
+        "latitude": 57.6353,
+        "longitude": 18.2966,
+        "email": "info@visbyairport.se",
+        "postal_code": "621 60"
+      },
+      {
+        "name": "Kristiansand Airport, Kjevik",
+        "code": "KRS",
+        "latitude": 58.2065,
+        "longitude": 8.0806,
+        "email": "info@krs.no",
+        "postal_code": "4652"
+      },
+      {
+        "name": "Malmö Airport",
+        "code": "MMX",
+        "latitude": 55.5424,
+        "longitude": 13.3714,
+        "email": "info@malmoairport.se",
+        "postal_code": "230 32"
+      },
+      {
+        "name": "Helsingborg Airport",
+        "code": "HEM",
+        "latitude": 56.1181,
+        "longitude": 12.7358,
+        "email": "info@helsingborgairport.se",
+        "postal_code": "251 89"
+      },
+      {
+        "name": "Bromma Stockholm Airport",
+        "code": "BMA",
+        "latitude": 59.3533,
+        "longitude": 17.9528,
+        "email": "info@brommaairport.se",
+        "postal_code": "168 67"
+      },
+      {
+        "name": "London Heathrow Airport",
+        "code": "LHR",
+        "latitude": 51.4700,
+        "longitude": -0.4543,
+        "email": "customer.relations@heathrow.com",
+        "postal_code": "TW6 1AP"
+      },
+      {
+        "name": "London Gatwick Airport",
+        "code": "LGW",
+        "latitude": 51.1537,
+        "longitude": -0.1821,
+        "email": "info@gatwickairport.com",
+        "postal_code": "RH6 0NP"
+      },
+      {
+        "name": "Manchester Airport",
+        "code": "MAN",
+        "latitude": 53.3650,
+        "longitude": -2.2728,
+        "email": "info@manairport.co.uk",
+        "postal_code": "M90 1QX"
+      },
+      {
+        "name": "Birmingham Airport",
+        "code": "BHX",
+        "latitude": 52.4534,
+        "longitude": -1.7333,
+        "email": "info@birminghamairport.co.uk",
+        "postal_code": "B26 3QJ"
+      },
+      {
+        "name": "Bristol Airport",
+        "code": "BRS",
+        "latitude": 51.3825,
+        "longitude": -2.7190,
+        "email": "info@bristolairport.co.uk",
+        "postal_code": "BS48 3DY"
+      },
+      {
+        "name": "Glasgow Airport",
+        "code": "GLA",
+        "latitude": 55.8714,
+        "longitude": -4.4334,
+        "email": "info@glasgowairport.com",
+        "postal_code": "PA3 2SW"
+      },
+      {
+        "name": "Liverpool John Lennon Airport",
+        "code": "LPL",
+        "latitude": 53.3331,
+        "longitude": -2.8506,
+        "email": "info@liverpoolairport.com",
+        "postal_code": "L24 1YD"
+      },
+      {
+        "name": "Leeds Bradford Airport",
+        "code": "LBA",
+        "latitude": 53.8653,
+        "longitude": -1.6625,
+        "email": "info@leedsbradfordairport.co.uk",
+        "postal_code": "LS19 7TU"
+      },
+      {
+        "name": "Newcastle International Airport",
+        "code": "NCL",
+        "latitude": 55.0372,
+        "longitude": -1.6174,
+        "email": "info@newcastleairport.com",
+        "postal_code": "NE13 8BZ"
+      },
+      {
+        "name": "London City Airport",
+        "code": "LCY",
+        "latitude": 51.5053,
+        "longitude": 0.0552,
+        "email": "info@londoncityairport.com",
+        "postal_code": "E16 2PX"
+      },
+      {
+        "name": "Paris Charles de Gaulle Airport",
+        "code": "CDG",
+        "latitude": 49.0097,
+        "longitude": 2.5479,
+        "email": "contact@adp.fr",
+        "postal_code": "95711"
+      },
+      {
+        "name": "Nice Côte d'Azur Airport",
+        "code": "NCE",
+        "latitude": 43.6654,
+        "longitude": 7.2150,
+        "email": "contact@cotedazur.aeroport.fr",
+        "postal_code": "06206"
+      },
+      {
+        "name": "Lyon-Saint Exupéry Airport",
+        "code": "LYS",
+        "latitude": 45.7250,
+        "longitude": 5.0800,
+        "email": "contact@lyonaeroports.fr",
+        "postal_code": "69125"
+      },
+      {
+        "name": "Marseille Provence Airport",
+        "code": "MRS",
+        "latitude": 43.4397,
+        "longitude": 5.2214,
+        "email": "contact@aeroport.fr",
+        "postal_code": "13700"
+      },
+      {
+        "name": "Toulouse-Blagnac Airport",
+        "code": "TLS",
+        "latitude": 43.6292,
+        "longitude": 1.3833,
+        "email": "contact@toulouse.aeroport.fr",
+        "postal_code": "31703"
+      },
+      {
+        "name": "Bordeaux-Mérignac Airport",
+        "code": "BOD",
+        "latitude": 44.8282,
+        "longitude": -0.7057,
+        "email": "contact@bordeaux.aeroport.fr",
+        "postal_code": "33700"
+      },
+      {
+        "name": "Nantes Atlantique Airport",
+        "code": "NTE",
+        "latitude": 47.1589,
+        "longitude": -1.6006,
+        "email": "contact@aeroport-nantes-atlantique.fr",
+        "postal_code": "44346"
+      },
+      {
+        "name": "Strasbourg Airport",
+        "code": "SXB",
+        "latitude": 48.5385,
+        "longitude": 7.6283,
+        "email": "contact@aeroport-strasbourg.fr",
+        "postal_code": "67960"
+      },
+      {
+        "name": "Lille Airport",
+        "code": "LIL",
+        "latitude": 50.5705,
+        "longitude": 3.2265,
+        "email": "contact@lille.aeroport.fr",
+        "postal_code": "59810"
+      },
+      {
+        "name": "Adolfo Suárez Madrid-Barajas Airport",
+        "code": "MAD",
+        "latitude": 40.4937,
+        "longitude": -3.5700,
+        "email": "info@aena.es",
+        "postal_code": "28042"
+      },
+      {
+        "name": "Barcelona-El Prat Airport",
+        "code": "BCN",
+        "latitude": 41.2974,
+        "longitude": 2.0833,
+        "email": "info@aena.es",
+        "postal_code": "08820"
+      },
+      {
+        "name": "Valencia Airport",
+        "code": "VLC",
+        "latitude": 39.4896,
+        "longitude": -0.4818,
+        "email": "info@aena.es",
+        "postal_code": "46940"
+      },
+      {
+        "name": "Seville Airport",
+        "code": "SVQ",
+        "latitude": 37.4192,
+        "longitude": -5.8931,
+        "email": "info@aena.es",
+        "postal_code": "41020"
+      },
+      {
+        "name": "Malaga Airport",
+        "code": "AGP",
+        "latitude": 36.6740,
+        "longitude": -4.4998,
+        "email": "info@aena.es",
+        "postal_code": "29004"
+      },
+      {
+        "name": "Bilbao Airport",
+        "code": "BIO",
+        "latitude": 43.3015,
+        "longitude": -2.9108,
+        "email": "info@aena.es",
+        "postal_code": "48180"
+      },
+      {
+        "name": "Porto Airport",
+        "code": "OPO",
+        "latitude": 41.2485,
+        "longitude": -8.6816,
+        "email": "info@ana.pt",
+        "postal_code": "4470-558"
+      },
+      {
+        "name": "Lisbon Portela Airport",
+        "code": "LIS",
+        "latitude": 38.7742,
+        "longitude": -9.1347,
+        "email": "info@ana.pt",
+        "postal_code": "1000-171"
+      },
+      {
+        "name": "Faro Airport",
+        "code": "FAO",
+        "latitude": 37.0143,
+        "longitude": -7.9656,
+        "email": "info@ana.pt",
+        "postal_code": "8005-018"
+      },
+      {
+        "name": "Madeira Airport",
+        "code": "FNC",
+        "latitude": 32.6884,
+        "longitude": -16.7749,
+        "email": "info@ana.pt",
+        "postal_code": "9100-105"
+      },
+      {
+        "name": "Ponta Delgada Airport",
+        "code": "PDL",
+        "latitude": 37.7331,
+        "longitude": -25.6667,
+        "email": "info@ana.pt",
+        "postal_code": "9500-101"
+      },
+      {
+        "name": "Rome Fiumicino Airport",
+        "code": "FCO",
+        "latitude": 41.8003,
+        "longitude": 12.2389,
+        "email": "info@adr.it",
+        "postal_code": "00054"
+      }
+      
+    ]
+}

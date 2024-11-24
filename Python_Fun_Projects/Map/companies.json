@@ -1,0 +1,1595 @@
+{
+    "companies": [
+      {
+        "name": "Maersk",
+        "email": "contact@maersk.com",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Novo Nordisk",
+        "email": "info@novonordisk.com",
+        "latitude": 55.7372,
+        "longitude": 12.5710
+      },
+      {
+        "name": "Vestas",
+        "email": "vestas@vestas.com",
+        "latitude": 56.5622,
+        "longitude": 9.0245
+      },
+      {
+        "name": "Carlsberg",
+        "email": "carlsberg@carlsberg.dk",
+        "latitude": 55.6759,
+        "longitude": 12.5645
+      },
+      {
+        "name": "Danske Bank",
+        "email": "danskebank@danskebank.dk",
+        "latitude": 55.6759,
+        "longitude": 12.5655
+      },
+      {
+        "name": "Coloplast",
+        "email": "dkinbound@coloplast.com",
+        "latitude": 55.7524,
+        "longitude": 12.5295
+      },
+      {
+        "name": "Bavarian Nordic",
+        "email": "info@bavarian-nordic.com",
+        "latitude": 55.6804,
+        "longitude": 12.5885
+      },
+      {
+        "name": "FLSmidth",
+        "email": "info@flsmidth.com",
+        "latitude": 55.6857,
+        "longitude": 12.5644
+      },
+      {
+        "name": "Siteimprove", jhgfcgvhbjnkmnjbhvgc
+        "email": "info@siteimprove.com",
+        "latitude": 55.6759,
+        "longitude": 12.5655
+      },
+      {
+        "name": "KMD",
+        "email": "info@kmd.dk",
+        "latitude": 55.6760,
+        "longitude": 12.5690
+      },
+      {
+        "name": "Netcompany",
+        "email": "info@netcompany.com",
+        "latitude": 55.6750,
+        "longitude": 12.5700
+      },
+      {
+        "name": "NNIT",
+        "email": "info@nnit.com",
+        "latitude": 55.6762,
+        "longitude": 12.5658
+      },
+      {
+        "name": "Bamboo",
+        "email": "contact@bamboo.com",
+        "latitude": 55.6764,
+        "longitude": 12.5640
+      },
+      {
+        "name": "Haldor Topsøe",
+        "email": "info@topsoe.com",
+        "latitude": 55.5740,
+        "longitude": 12.4931
+      },
+      {
+        "name": "Ceres Media",
+        "email": "info@ceresmedia.dk",
+        "latitude": 56.1592,
+        "longitude": 10.2037
+      },
+      {
+        "name": "Tornbjerg Gymnasium",
+        "email": "info@tornbjerg.dk",
+        "latitude": 55.3940,
+        "longitude": 10.2771
+      },
+      {
+        "name": "Bakkerud",
+        "email": "info@bakkerud.dk",
+        "latitude": 55.4020,
+        "longitude": 12.5563
+      },
+      {
+        "name": "Zyro",
+        "email": "contact@zyro.com",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "EasyTranslate",
+        "email": "info@easytranslate.com",
+        "latitude": 55.6741,
+        "longitude": 12.5864
+      },
+      {
+        "name": "Aarhus Universitet",
+        "email": "info@au.dk",
+        "latitude": 56.1629,
+        "longitude": 10.2039
+      },
+      {
+        "name": "Københavns Universitet",
+        "email": "info@ku.dk",
+        "latitude": 55.6800,
+        "longitude": 12.5696
+      },
+      {
+        "name": "PensionDanmark",
+        "email": "info@pension.dk",
+        "latitude": 55.6712,
+        "longitude": 12.5684
+      },
+      {
+        "name": "Nykredit",
+        "email": "info@nykredit.com",
+        "latitude": 55.6755,
+        "longitude": 12.5714
+      },
+      {
+        "name": "Ramboll",
+        "email": "info@ramboll.com",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Hempel",
+        "email": "info@hempel.com",
+        "latitude": 55.6812,
+        "longitude": 12.5565
+      },
+      {
+        "name": "Valtech",
+        "email": "info@valtech.com",
+        "latitude": 55.6768,
+        "longitude": 12.5730
+      },
+      {
+        "name": "Agile Partner",
+        "email": "info@agilepartner.com",
+        "latitude": 55.6700,
+        "longitude": 12.5800
+      },
+      {
+        "name": "Satair",
+        "email": "info@satair.com",
+        "latitude": 55.6346,
+        "longitude": 12.6465
+      },
+      {
+        "name": "Danmark",
+        "email": "info@danmark.dk",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Bureau Veritas",
+        "email": "info@bureauveritas.com",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "VIA University College",
+        "email": "info@via.dk",
+        "latitude": 56.1623,
+        "longitude": 10.2039
+      },
+      {
+        "name": "Danish Crown",
+        "email": "info@danishcrown.com",
+        "latitude": 55.4857,
+        "longitude": 9.4422
+      },
+      {
+        "name": "KMD A/S",
+        "email": "contact@kmd.dk",
+        "latitude": 55.6869,
+        "longitude": 12.5600
+      },
+      {
+        "name": "Aarhus Universitet",
+        "email": "info@au.dk",
+        "latitude": 56.1629,
+        "longitude": 10.2039
+      },
+      {
+        "name": "MHI Vestas Offshore Wind",
+        "email": "info@mhi-vestas.com",
+        "latitude": 56.1887,
+        "longitude": 10.5761
+      },
+      {
+        "name": "BLOXHUB",
+        "email": "info@bloxhub.org",
+        "latitude": 55.6725,
+        "longitude": 12.5853
+      },
+      {
+        "name": "Tradeshift",
+        "email": "info@tradeshift.com",
+        "latitude": 55.6755,
+        "longitude": 12.5712
+      },
+      {
+        "name": "Falck",
+        "email": "info@falck.com",
+        "latitude": 55.6614,
+        "longitude": 12.5608
+      },
+      {
+        "name": "DHL",
+        "email": "info@dhl.dk",
+        "latitude": 55.6400,
+        "longitude": 12.5918
+      },
+      {
+        "name": "Folketinget",
+        "email": "info@folketinget.dk",
+        "latitude": 55.6763,
+        "longitude": 12.5701
+      },
+      {
+        "name": "Lundbeck",
+        "email": "info@lundbeck.com",
+        "latitude": 55.6936,
+        "longitude": 12.5293
+      },
+      {
+        "name": "J. Lauritzen",
+        "email": "info@lauritzen.com",
+        "latitude": 55.6803,
+        "longitude": 12.5659
+      },
+      {
+        "name": "Danish Energy Agency",
+        "email": "contact@ens.dk",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "NCC Danmark",
+        "email": "info@ncc.dk",
+        "latitude": 55.6863,
+        "longitude": 12.5774
+      },
+      {
+        "name": "VIA University College",
+        "email": "info@via.dk",
+        "latitude": 56.1623,
+        "longitude": 10.2039
+      },
+      {
+        "name": "Danmarks Nationalbank",
+        "email": "info@nationalbanken.dk",
+        "latitude": 55.6759,
+        "longitude": 12.5629
+      },
+      {
+        "name": "Danish Red Cross",
+        "email": "info@rodekors.dk",
+        "latitude": 55.6795,
+        "longitude": 12.5826
+      },
+      {
+        "name": "Systematic",
+        "email": "info@systematic.com",
+        "latitude": 56.1600,
+        "longitude": 10.2037
+      },
+      {
+        "name": "Aalborg Portland",
+        "email": "info@aalborgportland.com",
+        "latitude": 57.0250,
+        "longitude": 9.9013
+      },
+      {
+        "name": "Københavns Lufthavn",
+        "email": "info@cph.dk",
+        "latitude": 55.6181,
+        "longitude": 12.6560
+      },
+      {
+        "name": "Børsen",
+        "email": "info@borsen.dk",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "SAS",
+        "email": "info@sas.dk",
+        "latitude": 55.6376,
+        "longitude": 12.6270
+      },
+      {
+        "name": "Bambora",
+        "email": "info@bambora.com",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Københavns Kommune",
+        "email": "info@kk.dk",
+        "latitude": 55.6759,
+        "longitude": 12.5655
+      },
+      {
+        "name": "Danmarks Radio",
+        "email": "info@dr.dk",
+        "latitude": 55.6862,
+        "longitude": 12.5797
+      },
+      {
+        "name": "Netcompany",
+        "email": "info@netcompany.com",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Trafikstyrelsen",
+        "email": "info@trafikstyrelsen.dk",
+        "latitude": 55.6763,
+        "longitude": 12.5710
+      },
+      {
+        "name": "ISS A/S",
+        "email": "info@dk.issworld.com",
+        "latitude": 55.6755,
+        "longitude": 12.5712
+      },
+      {
+        "name": "Danish Design Center",
+        "email": "info@ddc.dk",
+        "latitude": 55.6786,
+        "longitude": 12.5700
+      },
+      {
+        "name": "Simcorp",
+        "email": "info@simcorp.com",
+        "latitude": 55.6769,
+        "longitude": 12.5680
+      },
+      {
+        "name": "Columbia Sportswear",
+        "email": "info@columbiasportswear.dk",
+        "latitude": 55.6744,
+        "longitude": 12.5691
+      },
+      {
+        "name": "Inwido",
+        "email": "info@inwido.com",
+        "latitude": 55.6280,
+        "longitude": 12.5620
+      },
+      {
+        "name": "Kirkbi A/S",
+        "email": "info@kirkbi.com",
+        "latitude": 55.6842,
+        "longitude": 12.5758
+      },
+      {
+        "name": "Gemini Energy",
+        "email": "info@gemini.dk",
+        "latitude": 55.6820,
+        "longitude": 12.5710
+      },
+      {
+        "name": "Energinet",
+        "email": "info@energinet.dk",
+        "latitude": 55.5805,
+        "longitude": 12.5720
+      },
+      {
+        "name": "Niels Bohr Institute",
+        "email": "info@nbi.ku.dk",
+        "latitude": 55.6834,
+        "longitude": 12.5645
+      },
+      {
+        "name": "Ecco",
+        "email": "info@ecco.com",
+        "latitude": 55.3520,
+        "longitude": 10.1573
+      },
+      {
+        "name": "Viking Life-Saving Equipment",
+        "email": "info@viking-life.com",
+        "latitude": 55.6800,
+        "longitude": 12.6094
+      },
+      {
+        "name": "Færch Plast",
+        "email": "info@faerchplast.dk",
+        "latitude": 55.7925,
+        "longitude": 9.0712
+      },
+      {
+        "name": "Bavarian Nordic",
+        "email": "info@bavarian-nordic.com",
+        "latitude": 55.6758,
+        "longitude": 12.5304
+      },
+      {
+        "name": "Sundahl & Co",
+        "email": "info@sundahl.dk",
+        "latitude": 55.6783,
+        "longitude": 12.5687
+      },
+      {
+        "name": "Aalborg University",
+        "email": "info@aau.dk",
+        "latitude": 57.0234,
+        "longitude": 9.9167
+      },
+      {
+        "name": "Unibrew",
+        "email": "info@unibrew.dk",
+        "latitude": 55.4696,
+        "longitude": 10.4205
+      },
+      {
+        "name": "Ramboll Group",
+        "email": "info@ramboll.com",
+        "latitude": 55.6759,
+        "longitude": 12.5655
+      },
+      {
+        "name": "Københavns Kommune",
+        "email": "info@kk.dk",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Danish Food Federation",
+        "email": "info@food.danishindustry.dk",
+        "latitude": 55.6772,
+        "longitude": 12.5756
+      },
+      {
+        "name": "Hempel A/S",
+        "email": "info@hempel.com",
+        "latitude": 55.6851,
+        "longitude": 12.5580
+      },
+      {
+        "name": "Sydbank",
+        "email": "info@sydbank.dk",
+        "latitude": 55.5541,
+        "longitude": 9.9527
+      },
+      {
+        "name": "Jyllands-Posten",
+        "email": "info@jp.dk",
+        "latitude": 55.6873,
+        "longitude": 12.5857
+      },
+      {
+        "name": "Tøjeksperten",
+        "email": "info@toejeksperten.dk",
+        "latitude": 55.6760,
+        "longitude": 12.5681
+      },
+      {
+        "name": "Cavotec",
+        "email": "info@cavotec.com",
+        "latitude": 55.6759,
+        "longitude": 12.5655
+      },
+      {
+        "name": "PFA Pension",
+        "email": "info@pfa.dk",
+        "latitude": 55.6771,
+        "longitude": 12.5690
+      },
+      {
+        "name": "Aarhus Kommune",
+        "email": "info@aarhus.dk",
+        "latitude": 56.1629,
+        "longitude": 10.2039
+      },
+      {
+        "name": "Det Kongelige Bibliotek",
+        "email": "info@kb.dk",
+        "latitude": 55.6753,
+        "longitude": 12.5858
+      },
+      {
+        "name": "Maersk Drilling",
+        "email": "info@maerskdrilling.com",
+        "latitude": 55.6862,
+        "longitude": 12.5891
+      },
+      {
+        "name": "Munkholm",
+        "email": "info@munkholm.dk",
+        "latitude": 55.7677,
+        "longitude": 9.7288
+      },
+      {
+        "name": "Skamol",
+        "email": "info@skamol.com",
+        "latitude": 56.0174,
+        "longitude": 9.6958
+      },
+      {
+        "name": "Oda",
+        "email": "info@oda.com",
+        "latitude": 55.6852,
+        "longitude": 12.5821
+      },
+      {
+        "name": "TDC Net",
+        "email": "info@tdc.dk",
+        "latitude": 55.6915,
+        "longitude": 12.5712
+      },
+      {
+        "name": "Bestseller",
+        "email": "info@bestseller.com",
+        "latitude": 56.4463,
+        "longitude": 10.0057
+      },
+      {
+        "name": "Copenhagen Business School",
+        "email": "info@cbs.dk",
+        "latitude": 55.6760,
+        "longitude": 12.5695
+      },
+      {
+        "name": "Tullow Oil",
+        "email": "info@tullowoil.com",
+        "latitude": 55.6769,
+        "longitude": 12.5683
+      },
+      {
+        "name": "Aalborg Portland A/S",
+        "email": "info@aalborgportland.com",
+        "latitude": 57.0458,
+        "longitude": 9.9321
+      },
+      {
+        "name": "Bladt Industries A/S",
+        "email": "info@bladt.dk",
+        "latitude": 57.0746,
+        "longitude": 9.9222
+      },
+      {
+        "name": "Spar Nord Bank A/S",
+        "email": "info@sparnord.dk",
+        "latitude": 57.0485,
+        "longitude": 9.9188
+      },
+      {
+        "name": "Lindholm Maskiner A/S",
+        "email": "info@lindholmmaskiner.dk",
+        "latitude": 57.0627,
+        "longitude": 9.8633
+      },
+      {
+        "name": "Aalborg University",
+        "email": "info@aau.dk",
+        "latitude": 57.0125,
+        "longitude": 9.9918
+      },
+      {
+        "name": "Kjargaard Consulting",
+        "email": "contact@kjargaard.com",
+        "latitude": 57.0428,
+        "longitude": 9.9351
+      },
+      {
+        "name": "Desmi A/S",
+        "email": "info@desmi.com",
+        "latitude": 57.0359,
+        "longitude": 9.9221
+      },
+      {
+        "name": "Aalborg Energie Technik A/S",
+        "email": "info@aet-biomass.com",
+        "latitude": 57.0431,
+        "longitude": 9.9186
+      },
+      {
+        "name": "Aalborg CSP A/S",
+        "email": "info@aalborgcsp.com",
+        "latitude": 57.0345,
+        "longitude": 9.9325
+      },
+      {
+        "name": "Logimatic A/S",
+        "email": "info@logimatic.dk",
+        "latitude": 57.0457,
+        "longitude": 9.9316
+      },
+      {
+        "name": "ABB A/S",
+        "email": "info@dk.abb.com",
+        "latitude": 57.0456,
+        "longitude": 9.9344
+      },
+      {
+        "name": "Aalborg Havn",
+        "email": "info@aalborghavn.dk",
+        "latitude": 57.0606,
+        "longitude": 9.9223
+      },
+      {
+        "name": "Hydrema A/S",
+        "email": "info@hydrema.com",
+        "latitude": 57.0151,
+        "longitude": 9.8728
+      },
+      {
+        "name": "Scandi Byg A/S",
+        "email": "info@scandibyg.dk",
+        "latitude": 57.0086,
+        "longitude": 9.9262
+      },
+      {
+        "name": "Aalborg Kongres & Kultur Center",
+        "email": "info@akkc.dk",
+        "latitude": 57.0473,
+        "longitude": 9.9246
+      },
+      {
+        "name": "AAU Innovation",
+        "email": "info@aauinnovation.dk",
+        "latitude": 57.0118,
+        "longitude": 9.9985
+      },
+      {
+        "name": "Robotool A/S",
+        "email": "info@robotool.dk",
+        "latitude": 57.0348,
+        "longitude": 9.9121
+      },
+      {
+        "name": "Eurowind Energy A/S",
+        "email": "info@eurowindenergy.dk",
+        "latitude": 57.0391,
+        "longitude": 9.9268
+      },
+      {
+        "name": "NORDJYSKE Medier",
+        "email": "kontakt@nordjyske.dk",
+        "latitude": 57.0425,
+        "longitude": 9.9278
+      },
+      {
+        "name": "Aalborg Akvavit",
+        "email": "info@aalborgakvavit.com",
+        "latitude": 57.0613,
+        "longitude": 9.9304
+      },
+      {
+        "name": "Vipindi",
+        "email": "info@vipindi.com",
+        "latitude": 57.0376,
+        "longitude": 9.9089
+      },
+      {
+        "name": "Create It Real",
+        "email": "info@createitreal.com",
+        "latitude": 57.0308,
+        "longitude": 9.9443
+      },
+      {
+        "name": "AKKC - Aalborg Conference Center",
+        "email": "info@akkc.dk",
+        "latitude": 57.0478,
+        "longitude": 9.9239
+      },
+      {
+        "name": "NOV Flexibles",
+        "email": "info@nov.com",
+        "latitude": 57.0368,
+        "longitude": 9.9132
+      },
+      {
+        "name": "Danish Crown - Aalborg",
+        "email": "info@danishcrown.dk",
+        "latitude": 57.0453,
+        "longitude": 9.9307
+      },
+      {
+        "name": "Siemens Gamesa Renewable Energy",
+        "email": "info@siemensgamesa.com",
+        "latitude": 57.0588,
+        "longitude": 9.9143
+      },
+      {
+        "name": "Fibertex Personal Care",
+        "email": "info@fibertexpersonalcare.com",
+        "latitude": 57.0732,
+        "longitude": 9.9314
+      },
+      {
+        "name": "Techcollege Aalborg",
+        "email": "info@techcollege.dk",
+        "latitude": 57.0361,
+        "longitude": 9.9335
+      },
+      {
+        "name": "Netic A/S",
+        "email": "info@netic.dk",
+        "latitude": 57.0334,
+        "longitude": 9.9101
+      },
+      {
+        "name": "NTI A/S",
+        "email": "info@nti.dk",
+        "latitude": 57.0379,
+        "longitude": 9.9276
+      },
+      {
+        "name": "Aalborg Zoo",
+        "email": "info@aalborgzoo.dk",
+        "latitude": 57.0355,
+        "longitude": 9.9035
+      },
+      {
+        "name": "GateHouse Logistics",
+        "email": "info@gatehouse.dk",
+        "latitude": 57.0367,
+        "longitude": 9.9279
+      },
+      {
+        "name": "KMD Aalborg",
+        "email": "info@kmd.dk",
+        "latitude": 57.0352,
+        "longitude": 9.9193
+      },
+      {
+        "name": "Stofa",
+        "email": "info@stofa.dk",
+        "latitude": 57.0439,
+        "longitude": 9.9322
+      },
+      {
+        "name": "Lindab A/S",
+        "email": "info@lindab.dk",
+        "latitude": 57.0304,
+        "longitude": 9.9088
+      },
+      {
+        "name": "Daka Denmark A/S",
+        "email": "info@daka.dk",
+        "latitude": 57.0082,
+        "longitude": 9.9191
+      },
+      {
+        "name": "Farstrup Furniture A/S",
+        "email": "info@farstrup.dk",
+        "latitude": 57.0899,
+        "longitude": 9.7764
+      },
+      {
+        "name": "Aalborg Handelsskole",
+        "email": "info@ah.dk",
+        "latitude": 57.0393,
+        "longitude": 9.9283
+      },
+      {
+        "name": "Aalborg Forsyning",
+        "email": "info@aalborgforsyning.dk",
+        "latitude": 57.0297,
+        "longitude": 9.9314
+      },
+      {
+        "name": "Würth Danmark A/S",
+        "email": "info@wuerth.dk",
+        "latitude": 57.0614,
+        "longitude": 9.9183
+      },
+      {
+        "name": "InOutsource IT",
+        "email": "info@inoutsource.dk",
+        "latitude": 57.0294,
+        "longitude": 9.9364
+      },
+      {
+        "name": "HP Byg A/S",
+        "email": "info@hpbyg.dk",
+        "latitude": 57.0481,
+        "longitude": 9.9286
+      },
+      {
+        "name": "Aalborg Maskinfabrik A/S",
+        "email": "info@aalborgmaskinfabrik.dk",
+        "latitude": 57.0513,
+        "longitude": 9.9285
+      },
+      {
+        "name": "Jyske Bank Aalborg",
+        "email": "info@jyskebank.dk",
+        "latitude": 57.0471,
+        "longitude": 9.9171
+      },
+      {
+        "name": "Mekoprint A/S",
+        "email": "info@mekoprint.dk",
+        "latitude": 57.0516,
+        "longitude": 9.9383
+      },
+      {
+        "name": "Sanistål A/S",
+        "email": "info@sanistaal.dk",
+        "latitude": 57.0352,
+        "longitude": 9.9201
+      },
+      {
+        "name": "NORDEN A/S",
+        "email": "info@norden.com",
+        "latitude": 57.0615,
+        "longitude": 9.9303
+      },
+      {
+        "name": "SerEnergy A/S",
+        "email": "info@serenergy.com",
+        "latitude": 57.0621,
+        "longitude": 9.9441
+      },
+      {
+        "name": "Danpo A/S",
+        "email": "info@danpo.dk",
+        "latitude": 57.0321,
+        "longitude": 9.9021
+      },
+      {
+        "name": "Aalborg Chokoladen A/S",
+        "email": "info@aalborgchokoladen.dk",
+        "latitude": 57.0469,
+        "longitude": 9.9256
+      },
+      {
+        "name": "Infomedia A/S",
+        "email": "info@infomedia.dk",
+        "latitude": 57.0426,
+        "longitude": 9.9237
+      },
+      {
+        "name": "Blue Water Shipping Aalborg",
+        "email": "aalborg@bws.dk",
+        "latitude": 57.0474,
+        "longitude": 9.9319
+      },
+      {
+        "name": "Kamstrup A/S",
+        "email": "info@kamstrup.com",
+        "latitude": 57.0203,
+        "longitude": 9.8944
+      },
+      {
+        "name": "Danish Technological Institute Aalborg",
+        "email": "info@dti.dk",
+        "latitude": 57.0477,
+        "longitude": 9.9316
+      },
+      {
+        "name": "Asetek A/S",
+        "email": "info@asetek.com",
+        "latitude": 57.0364,
+        "longitude": 9.9167
+      },
+      {
+        "name": "DGI Nordjylland",
+        "email": "info@dgi.dk",
+        "latitude": 57.0325,
+        "longitude": 9.9236
+      },
+      {
+        "name": "Coolshop A/S",
+        "email": "info@coolshop.dk",
+        "latitude": 57.0546,
+        "longitude": 9.9321
+      },
+      {
+        "name": "NETS Denmark A/S",
+        "email": "info@nets.eu",
+        "latitude": 57.0484,
+        "longitude": 9.9221
+      },
+      {
+        "name": "Scan Global Logistics Aalborg",
+        "email": "aalborg@scangl.com",
+        "latitude": 57.0458,
+        "longitude": 9.9342
+      },
+      {
+        "name": "Fibertex Nonwovens A/S",
+        "email": "info@fibertex.com",
+        "latitude": 57.0665,
+        "longitude": 9.9245
+      },
+      {
+        "name": "EG A/S",
+        "email": "info@eg.dk",
+        "latitude": 57.0383,
+        "longitude": 9.9201
+      },
+      {
+        "name": "Kuben Management",
+        "email": "info@kubenman.dk",
+        "latitude": 57.0481,
+        "longitude": 9.9353
+      },
+      {
+        "name": "Skovsager Group",
+        "email": "info@skovsagergroup.dk",
+        "latitude": 57.0339,
+        "longitude": 9.9264
+      },
+      {
+        "name": "Deutz Fahr Denmark",
+        "email": "info@deutz-fahr.dk",
+        "latitude": 57.0472,
+        "longitude": 9.9172
+      },
+      {
+        "name": "Frederikshavn Havn A/S",
+        "email": "info@frederikshavnhavn.dk",
+        "latitude": 57.4407,
+        "longitude": 10.5449
+      },
+      {
+        "name": "Pandora Aalborg",
+        "email": "info@pandoragroup.com",
+        "latitude": 57.0480,
+        "longitude": 9.9170
+      },
+      {
+        "name": "Advansor A/S",
+        "email": "info@advansor.dk",
+        "latitude": 57.0641,
+        "longitude": 9.9074
+      },
+      {
+        "name": "ScanTech Marine A/S",
+        "email": "info@scantechmarine.com",
+        "latitude": 57.0666,
+        "longitude": 9.9468
+      },
+      {
+        "name": "Dansk IngeniørService A/S",
+        "email": "info@dis.dk",
+        "latitude": 57.0534,
+        "longitude": 9.9317
+      },
+      {
+        "name": "Tresu Group A/S",
+        "email": "info@tresu.com",
+        "latitude": 57.0222,
+        "longitude": 9.8978
+      },
+      {
+        "name": "Alfa Laval Aalborg A/S",
+        "email": "info.aalborg@alfalaval.com",
+        "latitude": 57.0382,
+        "longitude": 9.9063
+      },
+      {
+        "name": "Kimbrer Computer ApS",
+        "email": "info@kimbrer.dk",
+        "latitude": 57.0645,
+        "longitude": 9.9484
+      },
+      {
+        "name": "Jutlander Bank A/S",
+        "email": "info@jutlander.dk",
+        "latitude": 57.0361,
+        "longitude": 9.9216
+      },
+      {
+        "name": "Inwido Denmark A/S",
+        "email": "info@inwido.dk",
+        "latitude": 57.0373,
+        "longitude": 9.9106
+      },
+      {
+        "name": "Orskov Yard A/S",
+        "email": "info@orskov.dk",
+        "latitude": 57.0648,
+        "longitude": 9.9412
+      },
+      {
+        "name": "Vraa Dampvaskeri A/S",
+        "email": "info@vraa.dk",
+        "latitude": 57.0902,
+        "longitude": 9.9736
+      },
+      {
+        "name": "Welltec A/S",
+        "email": "info@welltec.com",
+        "latitude": 57.0234,
+        "longitude": 9.8999
+      },
+      {
+        "name": "Stena Recycling Aalborg",
+        "email": "info@stenarecycling.dk",
+        "latitude": 57.0392,
+        "longitude": 9.9294
+      },
+      {
+        "name": "HjulmandKaptain",
+        "email": "info@hjulmandkaptain.dk",
+        "latitude": 57.0478,
+        "longitude": 9.9175
+      },
+      {
+        "name": "Aircontact Group Denmark",
+        "email": "info@aircontactgroup.dk",
+        "latitude": 57.0503,
+        "longitude": 9.9326
+      },
+      {
+        "name": "Aarhus Vand A/S",
+        "email": "info@aarhusvand.dk",
+        "latitude": 56.1496,
+        "longitude": 10.2069
+      },
+      {
+        "name": "Aarhus University Hospital",
+        "email": "info@auh.dk",
+        "latitude": 56.1662,
+        "longitude": 10.2017
+      },
+      {
+        "name": "Hedeselskabet",
+        "email": "info@hedeselskabet.dk",
+        "latitude": 56.1547,
+        "longitude": 10.2135
+      },
+      {
+        "name": "Beumer Group A/S",
+        "email": "info@beumergroup.dk",
+        "latitude": 56.1520,
+        "longitude": 10.2112
+      },
+      {
+        "name": "Aarhus Letbane",
+        "email": "info@letbanen.dk",
+        "latitude": 56.1564,
+        "longitude": 10.2100
+      },
+      {
+        "name": "Lindberg A/S",
+        "email": "info@lindberg.com",
+        "latitude": 56.1710,
+        "longitude": 10.1803
+      },
+      {
+        "name": "Jyske Bank",
+        "email": "info@jyskebank.dk",
+        "latitude": 56.1629,
+        "longitude": 10.1915
+      },
+      {
+        "name": "Arla Foods",
+        "email": "info@arlafoods.com",
+        "latitude": 56.1569,
+        "longitude": 10.1970
+      },
+      {
+        "name": "MT Højgaard A/S",
+        "email": "info@mth.dk",
+        "latitude": 56.1551,
+        "longitude": 10.1920
+      },
+      {
+        "name": "VOLA A/S",
+        "email": "info@vola.dk",
+        "latitude": 56.1720,
+        "longitude": 10.1840
+      },
+      {
+        "name": "Danske Bank Aarhus",
+        "email": "info@danskebank.dk",
+        "latitude": 56.1592,
+        "longitude": 10.2002
+      },
+      {
+        "name": "KMD Aarhus",
+        "email": "info@kmd.dk",
+        "latitude": 56.1607,
+        "longitude": 10.1928
+      },
+      {
+        "name": "Salling Group",
+        "email": "info@sallinggroup.com",
+        "latitude": 56.1580,
+        "longitude": 10.1972
+      },
+      {
+        "name": "Syddjurs Forsyning A/S",
+        "email": "info@syddjursforsyning.dk",
+        "latitude": 56.1554,
+        "longitude": 10.2098
+      },
+      {
+        "name": "Viking Denmark A/S",
+        "email": "info@vikingdenmark.com",
+        "latitude": 56.1637,
+        "longitude": 10.1982
+      },
+      {
+        "name": "Confac A/S",
+        "email": "info@confac.dk",
+        "latitude": 56.1742,
+        "longitude": 10.1941
+      },
+      {
+        "name": "Aarhus Festuge",
+        "email": "info@aarhusfestuge.dk",
+        "latitude": 56.1582,
+        "longitude": 10.2105
+      },
+      {
+        "name": "Aarhus Teater",
+        "email": "info@aarhusteater.dk",
+        "latitude": 56.1572,
+        "longitude": 10.2111
+      },
+      {
+        "name": "Aarhus Tech",
+        "email": "info@aarhustech.dk",
+        "latitude": 56.1548,
+        "longitude": 10.2110
+      },
+      {
+        "name": "SPX Flow Technology A/S",
+        "email": "info@spxflow.com",
+        "latitude": 56.1633,
+        "longitude": 10.2101
+      },
+      {
+        "name": "Schneider Electric Aarhus",
+        "email": "info@se.com",
+        "latitude": 56.1612,
+        "longitude": 10.2013
+      },
+      {
+        "name": "Tryg Aarhus",
+        "email": "info@tryg.dk",
+        "latitude": 56.1634,
+        "longitude": 10.1909
+      },
+      {
+        "name": "Topdanmark Forsikring A/S",
+        "email": "info@topdanmark.dk",
+        "latitude": 56.1549,
+        "longitude": 10.2035
+      },
+      {
+        "name": "EG A/S",
+        "email": "info@eg.dk",
+        "latitude": 56.1593,
+        "longitude": 10.1901
+      },
+      {
+        "name": "Aarhus Maskinmesterskole",
+        "email": "info@ams.dk",
+        "latitude": 56.1600,
+        "longitude": 10.2122
+      },
+      {
+        "name": "Ramboll Aarhus",
+        "email": "info@ramboll.dk",
+        "latitude": 56.1522,
+        "longitude": 10.2104
+      },
+      {
+        "name": "Royal Unibrew Aarhus",
+        "email": "info@royalunibrew.dk",
+        "latitude": 56.1639,
+        "longitude": 10.1955
+      },
+      {
+        "name": "Hjem-IS Aarhus",
+        "email": "info@hjemis.dk",
+        "latitude": 56.1564,
+        "longitude": 10.1996
+      },
+      {
+        "name": "Per Aarsleff A/S",
+        "email": "info@aarsleff.dk",
+        "latitude": 56.1700,
+        "longitude": 10.2130
+      },
+      {
+        "name": "Troldtekt A/S",
+        "email": "info@troldtekt.dk",
+        "latitude": 56.1647,
+        "longitude": 10.2021
+      },
+      {
+        "name": "AVK International A/S",
+        "email": "info@avk.dk",
+        "latitude": 56.1550,
+        "longitude": 10.2112
+      },
+      {
+        "name": "AarhusKarlshamn Denmark A/S",
+        "email": "info@aak.com",
+        "latitude": 56.1675,
+        "longitude": 10.2000
+      },
+      {
+        "name": "Niras A/S Aarhus",
+        "email": "info@niras.dk",
+        "latitude": 56.1577,
+        "longitude": 10.2090
+      },
+      {
+        "name": "Viden Djurs",
+        "email": "info@videndjurs.dk",
+        "latitude": 56.1656,
+        "longitude": 10.2079
+      },
+      {
+        "name": "Skejby Forsyningsanlæg",
+        "email": "info@skejbyforsyning.dk",
+        "latitude": 56.1687,
+        "longitude": 10.1988
+      },
+      {
+        "name": "Salling Aarhus",
+        "email": "info@salling.dk",
+        "latitude": 56.1561,
+        "longitude": 10.2049
+      },
+      {
+        "name": "Jyllands-Posten",
+        "email": "info@jp.dk",
+        "latitude": 56.1598,
+        "longitude": 10.1957
+      },
+      {
+        "name": "Inventure Nordic A/S",
+        "email": "info@inventurenordic.dk",
+        "latitude": 56.1586,
+        "longitude": 10.2074
+      },
+      {
+        "name": "IT Minds Aarhus",
+        "email": "info@itminds.dk",
+        "latitude": 56.1645,
+        "longitude": 10.2097
+      },
+      {
+        "name": "ÅF Pöyry Denmark A/S",
+        "email": "info@afconsult.com",
+        "latitude": 56.1610,
+        "longitude": 10.1978
+      },
+      {
+        "name": "Orbicon A/S",
+        "email": "info@orbicon.dk",
+        "latitude": 56.1663,
+        "longitude": 10.2009
+      },
+      {
+        "name": "HydraSpecma A/S",
+        "email": "info@hydraspecma.com",
+        "latitude": 56.1649,
+        "longitude": 10.1932
+      },
+      {
+        "name": "Norlys Aarhus",
+        "email": "info@norlys.dk",
+        "latitude": 56.1563,
+        "longitude": 10.2020
+      },
+      {
+        "name": "Marel Aarhus",
+        "email": "info@marel.com",
+        "latitude": 56.1556,
+        "longitude": 10.2081
+      },
+      {
+        "name": "Korn Ferry Aarhus",
+        "email": "info@kornferry.com",
+        "latitude": 56.1589,
+        "longitude": 10.1950
+      },
+      {
+        "name": "Chr. Hansen Holding A/S",
+        "email": "info@chr-hansen.com",
+        "latitude": 56.1653,
+        "longitude": 10.1938
+      },
+      {
+        "name": "IC Group",
+        "email": "info@icgroup.net",
+        "latitude": 56.1500,
+        "longitude": 10.2030
+      },
+      {
+        "name": "Aarhus Havn",
+        "email": "info@aarhushavn.dk",
+        "latitude": 56.1420,
+        "longitude": 10.1975
+      },
+      {
+        "name": "Danfoss",
+        "email": "info@danfoss.com",
+        "latitude": 56.1521,
+        "longitude": 10.2089
+      },
+      {
+        "name": "Leroy Seafood Group",
+        "email": "info@leroy.se",
+        "latitude": 56.1639,
+        "longitude": 10.2115
+      },
+      {
+        "name": "Kirk Kapital",
+        "email": "info@kirk.dk",
+        "latitude": 56.1601,
+        "longitude": 10.1879
+      },
+      {
+        "name": "Aarhus Katedralskole",
+        "email": "info@aak.dk",
+        "latitude": 56.1584,
+        "longitude": 10.2102
+      },
+      {
+        "name": "MHI Vestas Offshore Wind",
+        "email": "info@mhi-vestas.com",
+        "latitude": 56.1569,
+        "longitude": 10.2043
+      },
+      {
+        "name": "Novo Nordisk",
+        "email": "info@novonordisk.com",
+        "latitude": 56.1728,
+        "longitude": 10.2202
+      },
+      {
+        "name": "TDC Group",
+        "email": "info@tdc.dk",
+        "latitude": 56.1550,
+        "longitude": 10.2046
+      },
+      {
+        "name": "Danish Crown",
+        "email": "info@danishcrown.dk",
+        "latitude": 56.1435,
+        "longitude": 10.2040
+      },
+      {
+        "name": "COWI",
+        "email": "info@cowi.com",
+        "latitude": 56.1635,
+        "longitude": 10.2136
+      },
+      {
+        "name": "E.ON",
+        "email": "info@eon.dk",
+        "latitude": 56.1710,
+        "longitude": 10.2101
+      },
+      {
+        "name": "NNE Pharmaplan",
+        "email": "info@nne.com",
+        "latitude": 56.1505,
+        "longitude": 10.2061
+      },
+      {
+        "name": "Aarhus Business College",
+        "email": "info@aabc.dk",
+        "latitude": 56.1581,
+        "longitude": 10.2032
+      },
+      {
+        "name": "Ramboll",
+        "email": "info@ramboll.dk",
+        "latitude": 56.1654,
+        "longitude": 10.2119
+      },
+      {
+        "name": "SAS Institute",
+        "email": "info@sas.com",
+        "latitude": 56.1714,
+        "longitude": 10.1986
+      },
+      {
+        "name": "Haldor Topsøe",
+        "email": "info@topsoe.com",
+        "latitude": 56.1452,
+        "longitude": 10.2023
+      },
+      {
+        "name": "Aarhus Kommune",
+        "email": "info@aarhus.dk",
+        "latitude": 56.1620,
+        "longitude": 10.2031
+      },
+      {
+        "name": "Møller & Partners",
+        "email": "info@moeller.dk",
+        "latitude": 56.1538,
+        "longitude": 10.1918
+      },
+      {
+        "name": "Danmarks Radio",
+        "email": "info@dr.dk",
+        "latitude": 56.1555,
+        "longitude": 10.1870
+      },
+      {
+        "name": "Scan Global Logistics",
+        "email": "info@scangl.com",
+        "latitude": 56.1660,
+        "longitude": 10.2147
+      },
+      {
+        "name": "Københavns Møbelsnedkeri",
+        "email": "info@km.dk",
+        "latitude": 56.1422,
+        "longitude": 10.2100
+      },
+      {
+        "name": "Energistyrelsen",
+        "email": "info@ens.dk",
+        "latitude": 56.1628,
+        "longitude": 10.2018
+      },
+      {
+        "name": "VIA University College",
+        "email": "info@via.dk",
+        "latitude": 56.1585,
+        "longitude": 10.1949
+      },
+      {
+        "name": "Aarhus Energi",
+        "email": "info@aarhusenergi.dk",
+        "latitude": 56.1671,
+        "longitude": 10.2006
+      },
+      {
+        "name": "Grontmij",
+        "email": "info@grontmij.dk",
+        "latitude": 56.1704,
+        "longitude": 10.2113
+      },
+      {
+        "name": "Danfoss Power Solutions",
+        "email": "info@danfoss.com",
+        "latitude": 56.1529,
+        "longitude": 10.2095
+      },
+      {
+        "name": "Vestergaard Company",
+        "email": "info@vestergaard.com",
+        "latitude": 56.1604,
+        "longitude": 10.1905
+      },
+      {
+        "name": "Agro Business Park",
+        "email": "info@agropark.dk",
+        "latitude": 56.1630,
+        "longitude": 10.1981
+      },
+      {
+        "name": "EnergiMidt",
+        "email": "info@energimidt.dk",
+        "latitude": 56.1613,
+        "longitude": 10.2091
+      },
+      {
+        "name": "Varde Kommune",
+        "email": "info@varde.dk",
+        "latitude": 56.1480,
+        "longitude": 10.1994
+      },
+      {
+        "name": "Wienerberger",
+        "email": "info@wienerberger.dk",
+        "latitude": 56.1496,
+        "longitude": 10.2105
+      },
+      {
+        "name": "NCC Denmark",
+        "email": "info@ncc.dk",
+        "latitude": 56.1571,
+        "longitude": 10.2057
+      },
+      {
+        "name": "Aarhus Kommune Havn",
+        "email": "info@aarhus.dk",
+        "latitude": 56.1548,
+        "longitude": 10.1974
+      },
+      {
+        "name": "København Nordvest",
+        "email": "info@kbh.dk",
+        "latitude": 56.1683,
+        "longitude": 10.2027
+      },
+      {
+        "name": "Axpo Nordic",
+        "email": "info@axpo.com",
+        "latitude": 56.1514,
+        "longitude": 10.2137
+      },
+      {
+        "name": "Billund Bykontor",
+        "email": "info@billundbykontor.dk",
+        "latitude": 56.1305,
+        "longitude": 8.6150
+      },
+      {
+        "name": "Folkekirken i Billund",
+        "email": "info@billundkirke.dk",
+        "latitude": 56.1330,
+        "longitude": 8.6100
+      },
+      {
+        "name": "Billund Kommune",
+        "email": "info@billund.dk",
+        "latitude": 56.1280,
+        "longitude": 8.6135
+      },
+      {
+        "name": "Danfoss A/S",
+        "email": "info@danfoss.com",
+        "latitude": 56.1065,
+        "longitude": 8.5630
+      },
+      {
+        "name": "Billund Center",
+        "email": "info@billundcenter.dk",
+        "latitude": 56.1285,
+        "longitude": 8.6165
+      },
+      {
+        "name": "Kraftværk Billund",
+        "email": "info@kraftvaerk.dk",
+        "latitude": 56.1300,
+        "longitude": 8.6195
+      },
+      {
+        "name": "BKI Foods",
+        "email": "info@bkifoods.dk",
+        "latitude": 56.1050,
+        "longitude": 8.5700
+      },
+      {
+        "name": "Koldings Have",
+        "email": "info@koldingshave.dk",
+        "latitude": 56.1250,
+        "longitude": 8.5900
+      },
+      {
+        "name": "Billund VVS",
+        "email": "info@billundvvs.dk",
+        "latitude": 56.1302,
+        "longitude": 8.6101
+      },
+      {
+        "name": "Mærsk",
+        "email": "info@maersk.com",
+        "latitude": 56.1111,
+        "longitude": 8.5701
+      },
+      {
+        "name": "Billund Airport",
+        "email": "info@billundairport.dk",
+        "latitude": 56.1320,
+        "longitude": 8.6170
+      }
+    ]
+  }
+  

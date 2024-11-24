@@ -1,0 +1,496 @@
+{
+  "companies": [
+    {
+        "name": "Aarhus Vand A/S",
+        "email": "info@aarhusvand.dk",
+        "latitude": 56.1496,
+        "longitude": 10.2069
+      },
+      {
+        "name": "Aarhus University Hospital",
+        "email": "info@auh.dk",
+        "latitude": 56.1662,
+        "longitude": 10.2017
+      },
+      {
+        "name": "Hedeselskabet",
+        "email": "info@hedeselskabet.dk",
+        "latitude": 56.1547,
+        "longitude": 10.2135
+      },
+      {
+        "name": "Beumer Group A/S",
+        "email": "info@beumergroup.dk",
+        "latitude": 56.1520,
+        "longitude": 10.2112
+      },
+      {
+        "name": "Aarhus Letbane",
+        "email": "info@letbanen.dk",
+        "latitude": 56.1564,
+        "longitude": 10.2100
+      },
+      {
+        "name": "Lindberg A/S",
+        "email": "info@lindberg.com",
+        "latitude": 56.1710,
+        "longitude": 10.1803
+      },
+      {
+        "name": "Jyske Bank",
+        "email": "info@jyskebank.dk",
+        "latitude": 56.1629,
+        "longitude": 10.1915
+      },
+      {
+        "name": "Arla Foods",
+        "email": "info@arlafoods.com",
+        "latitude": 56.1569,
+        "longitude": 10.1970
+      },
+      {
+        "name": "MT Højgaard A/S",
+        "email": "info@mth.dk",
+        "latitude": 56.1551,
+        "longitude": 10.1920
+      },
+      {
+        "name": "VOLA A/S",
+        "email": "info@vola.dk",
+        "latitude": 56.1720,
+        "longitude": 10.1840
+      },
+      {
+        "name": "Danske Bank Aarhus",
+        "email": "info@danskebank.dk",
+        "latitude": 56.1592,
+        "longitude": 10.2002
+      },
+      {
+        "name": "KMD Aarhus",
+        "email": "info@kmd.dk",
+        "latitude": 56.1607,
+        "longitude": 10.1928
+      },
+      {
+        "name": "Salling Group",
+        "email": "info@sallinggroup.com",
+        "latitude": 56.1580,
+        "longitude": 10.1972
+      },
+      {
+        "name": "Syddjurs Forsyning A/S",
+        "email": "info@syddjursforsyning.dk",
+        "latitude": 56.1554,
+        "longitude": 10.2098
+      },
+      {
+        "name": "Viking Denmark A/S",
+        "email": "info@vikingdenmark.com",
+        "latitude": 56.1637,
+        "longitude": 10.1982
+      },
+      {
+        "name": "Confac A/S",
+        "email": "info@confac.dk",
+        "latitude": 56.1742,
+        "longitude": 10.1941
+      },
+      {
+        "name": "Aarhus Festuge",
+        "email": "info@aarhusfestuge.dk",
+        "latitude": 56.1582,
+        "longitude": 10.2105
+      },
+      {
+        "name": "Aarhus Teater",
+        "email": "info@aarhusteater.dk",
+        "latitude": 56.1572,
+        "longitude": 10.2111
+      },
+      {
+        "name": "Aarhus Tech",
+        "email": "info@aarhustech.dk",
+        "latitude": 56.1548,
+        "longitude": 10.2110
+      },
+      {
+        "name": "SPX Flow Technology A/S",
+        "email": "info@spxflow.com",
+        "latitude": 56.1633,
+        "longitude": 10.2101
+      },
+      {
+        "name": "Schneider Electric Aarhus",
+        "email": "info@se.com",
+        "latitude": 56.1612,
+        "longitude": 10.2013
+      },
+      {
+        "name": "Tryg Aarhus",
+        "email": "info@tryg.dk",
+        "latitude": 56.1634,
+        "longitude": 10.1909
+      },
+      {
+        "name": "Topdanmark Forsikring A/S",
+        "email": "info@topdanmark.dk",
+        "latitude": 56.1549,
+        "longitude": 10.2035
+      },
+      {
+        "name": "EG A/S",
+        "email": "info@eg.dk",
+        "latitude": 56.1593,
+        "longitude": 10.1901
+      },
+      {
+        "name": "Aarhus Maskinmesterskole",
+        "email": "info@ams.dk",
+        "latitude": 56.1600,
+        "longitude": 10.2122
+      },
+      {
+        "name": "Ramboll Aarhus",
+        "email": "info@ramboll.dk",
+        "latitude": 56.1522,
+        "longitude": 10.2104
+      },
+      {
+        "name": "Royal Unibrew Aarhus",
+        "email": "info@royalunibrew.dk",
+        "latitude": 56.1639,
+        "longitude": 10.1955
+      },
+      {
+        "name": "Hjem-IS Aarhus",
+        "email": "info@hjemis.dk",
+        "latitude": 56.1564,
+        "longitude": 10.1996
+      },
+      {
+        "name": "Per Aarsleff A/S",
+        "email": "info@aarsleff.dk",
+        "latitude": 56.1700,
+        "longitude": 10.2130
+      },
+      {
+        "name": "Troldtekt A/S",
+        "email": "info@troldtekt.dk",
+        "latitude": 56.1647,
+        "longitude": 10.2021
+      },
+      {
+        "name": "AVK International A/S",
+        "email": "info@avk.dk",
+        "latitude": 56.1550,
+        "longitude": 10.2112
+      },
+      {
+        "name": "AarhusKarlshamn Denmark A/S",
+        "email": "info@aak.com",
+        "latitude": 56.1675,
+        "longitude": 10.2000
+      },
+      {
+        "name": "Niras A/S Aarhus",
+        "email": "info@niras.dk",
+        "latitude": 56.1577,
+        "longitude": 10.2090
+      },
+      {
+        "name": "Viden Djurs",
+        "email": "info@videndjurs.dk",
+        "latitude": 56.1656,
+        "longitude": 10.2079
+      },
+      {
+        "name": "Skejby Forsyningsanlæg",
+        "email": "info@skejbyforsyning.dk",
+        "latitude": 56.1687,
+        "longitude": 10.1988
+      },
+      {
+        "name": "Salling Aarhus",
+        "email": "info@salling.dk",
+        "latitude": 56.1561,
+        "longitude": 10.2049
+      },
+      {
+        "name": "Jyllands-Posten",
+        "email": "info@jp.dk",
+        "latitude": 56.1598,
+        "longitude": 10.1957
+      },
+      {
+        "name": "Inventure Nordic A/S",
+        "email": "info@inventurenordic.dk",
+        "latitude": 56.1586,
+        "longitude": 10.2074
+      },
+      {
+        "name": "IT Minds Aarhus",
+        "email": "info@itminds.dk",
+        "latitude": 56.1645,
+        "longitude": 10.2097
+      },
+      {
+        "name": "ÅF Pöyry Denmark A/S",
+        "email": "info@afconsult.com",
+        "latitude": 56.1610,
+        "longitude": 10.1978
+      },
+      {
+        "name": "Orbicon A/S",
+        "email": "info@orbicon.dk",
+        "latitude": 56.1663,
+        "longitude": 10.2009
+      },
+      {
+        "name": "HydraSpecma A/S",
+        "email": "info@hydraspecma.com",
+        "latitude": 56.1649,
+        "longitude": 10.1932
+      },
+      {
+        "name": "Norlys Aarhus",
+        "email": "info@norlys.dk",
+        "latitude": 56.1563,
+        "longitude": 10.2020
+      },
+      {
+        "name": "Marel Aarhus",
+        "email": "info@marel.com",
+        "latitude": 56.1556,
+        "longitude": 10.2081
+      },
+      {
+        "name": "Korn Ferry Aarhus",
+        "email": "info@kornferry.com",
+        "latitude": 56.1589,
+        "longitude": 10.1950
+      },
+      {
+        "name": "Chr. Hansen Holding A/S",
+        "email": "info@chr-hansen.com",
+        "latitude": 56.1653,
+        "longitude": 10.1938
+      },
+      {
+        "name": "IC Group",
+        "email": "info@icgroup.net",
+        "latitude": 56.1500,
+        "longitude": 10.2030
+      },
+      {
+        "name": "Aarhus Havn",
+        "email": "info@aarhushavn.dk",
+        "latitude": 56.1420,
+        "longitude": 10.1975
+      },
+      {
+        "name": "Danfoss",
+        "email": "info@danfoss.com",
+        "latitude": 56.1521,
+        "longitude": 10.2089
+      },
+      {
+        "name": "Leroy Seafood Group",
+        "email": "info@leroy.se",
+        "latitude": 56.1639,
+        "longitude": 10.2115
+      },
+      {
+        "name": "Kirk Kapital",
+        "email": "info@kirk.dk",
+        "latitude": 56.1601,
+        "longitude": 10.1879
+      },
+      {
+        "name": "Aarhus Katedralskole",
+        "email": "info@aak.dk",
+        "latitude": 56.1584,
+        "longitude": 10.2102
+      },
+      {
+        "name": "MHI Vestas Offshore Wind",
+        "email": "info@mhi-vestas.com",
+        "latitude": 56.1569,
+        "longitude": 10.2043
+      },
+      {
+        "name": "Novo Nordisk",
+        "email": "info@novonordisk.com",
+        "latitude": 56.1728,
+        "longitude": 10.2202
+      },
+      {
+        "name": "TDC Group",
+        "email": "info@tdc.dk",
+        "latitude": 56.1550,
+        "longitude": 10.2046
+      },
+      {
+        "name": "Danish Crown",
+        "email": "info@danishcrown.dk",
+        "latitude": 56.1435,
+        "longitude": 10.2040
+      },
+      {
+        "name": "COWI",
+        "email": "info@cowi.com",
+        "latitude": 56.1635,
+        "longitude": 10.2136
+      },
+      {
+        "name": "E.ON",
+        "email": "info@eon.dk",
+        "latitude": 56.1710,
+        "longitude": 10.2101
+      },
+      {
+        "name": "NNE Pharmaplan",
+        "email": "info@nne.com",
+        "latitude": 56.1505,
+        "longitude": 10.2061
+      },
+      {
+        "name": "Aarhus Business College",
+        "email": "info@aabc.dk",
+        "latitude": 56.1581,
+        "longitude": 10.2032
+      },
+      {
+        "name": "Ramboll",
+        "email": "info@ramboll.dk",
+        "latitude": 56.1654,
+        "longitude": 10.2119
+      },
+      {
+        "name": "SAS Institute",
+        "email": "info@sas.com",
+        "latitude": 56.1714,
+        "longitude": 10.1986
+      },
+      {
+        "name": "Haldor Topsøe",
+        "email": "info@topsoe.com",
+        "latitude": 56.1452,
+        "longitude": 10.2023
+      },
+      {
+        "name": "Aarhus Kommune",
+        "email": "info@aarhus.dk",
+        "latitude": 56.1620,
+        "longitude": 10.2031
+      },
+      {
+        "name": "Møller & Partners",
+        "email": "info@moeller.dk",
+        "latitude": 56.1538,
+        "longitude": 10.1918
+      },
+      {
+        "name": "Danmarks Radio",
+        "email": "info@dr.dk",
+        "latitude": 56.1555,
+        "longitude": 10.1870
+      },
+      {
+        "name": "Scan Global Logistics",
+        "email": "info@scangl.com",
+        "latitude": 56.1660,
+        "longitude": 10.2147
+      },
+      {
+        "name": "Københavns Møbelsnedkeri",
+        "email": "info@km.dk",
+        "latitude": 56.1422,
+        "longitude": 10.2100
+      },
+      {
+        "name": "Energistyrelsen",
+        "email": "info@ens.dk",
+        "latitude": 56.1628,
+        "longitude": 10.2018
+      },
+      {
+        "name": "VIA University College",
+        "email": "info@via.dk",
+        "latitude": 56.1585,
+        "longitude": 10.1949
+      },
+      {
+        "name": "Aarhus Energi",
+        "email": "info@aarhusenergi.dk",
+        "latitude": 56.1671,
+        "longitude": 10.2006
+      },
+      {
+        "name": "Grontmij",
+        "email": "info@grontmij.dk",
+        "latitude": 56.1704,
+        "longitude": 10.2113
+      },
+      {
+        "name": "Danfoss Power Solutions",
+        "email": "info@danfoss.com",
+        "latitude": 56.1529,
+        "longitude": 10.2095
+      },
+      {
+        "name": "Vestergaard Company",
+        "email": "info@vestergaard.com",
+        "latitude": 56.1604,
+        "longitude": 10.1905
+      },
+      {
+        "name": "Agro Business Park",
+        "email": "info@agropark.dk",
+        "latitude": 56.1630,
+        "longitude": 10.1981
+      },
+      {
+        "name": "EnergiMidt",
+        "email": "info@energimidt.dk",
+        "latitude": 56.1613,
+        "longitude": 10.2091
+      },
+      {
+        "name": "Varde Kommune",
+        "email": "info@varde.dk",
+        "latitude": 56.1480,
+        "longitude": 10.1994
+      },
+      {
+        "name": "Wienerberger",
+        "email": "info@wienerberger.dk",
+        "latitude": 56.1496,
+        "longitude": 10.2105
+      },
+      {
+        "name": "NCC Denmark",
+        "email": "info@ncc.dk",
+        "latitude": 56.1571,
+        "longitude": 10.2057
+      },
+      {
+        "name": "Aarhus Kommune Havn",
+        "email": "info@aarhus.dk",
+        "latitude": 56.1548,
+        "longitude": 10.1974
+      },
+      {
+        "name": "København Nordvest",
+        "email": "info@kbh.dk",
+        "latitude": 56.1683,
+        "longitude": 10.2027
+      },
+      {
+        "name": "Axpo Nordic",
+        "email": "info@axpo.com",
+        "latitude": 56.1514,
+        "longitude": 10.2137
+      }
+  ]
+}

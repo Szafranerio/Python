@@ -1,10 +1,20 @@
 from tkinter import *
 import pandas
 import random
+import json
+from tkinter import *
+from tkinter import messagebox, ttk, END
+import os
+import re
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.application import MIMEApplication
 
 BACKGROUND_COLOR = "#B1DDC6"
 current_card = {}
 to_learn = {}
+FONT_NAME = "Courier"
 
 try :
     danish_data = pandas.read_csv('./data/Day031_FlashCards/data/words_to_learn.csv')
@@ -13,8 +23,6 @@ except FileNotFoundError:
     to_learn = original_data.to_dict(orient='records')
 else:
     to_learn = danish_data.to_dict(orient='records')
-
-
 
 def next_card():
     global current_card, flip_timer
@@ -35,6 +43,63 @@ def is_known():
     data = pandas.DataFrame(to_learn)
     data.to_csv('./data/Day031_FlashCards/data/words_to_learn.csv', index=False)
     next_card()
+    
+def send_to_mail():
+    global input_send_mail
+    mail_window = Toplevel(window)
+    mail_window.title('Send Mail')
+    Label(mail_window, text='Input your mail: ', font=(FONT_NAME, 12)).grid(column=0, row=0, sticky='e', padx=10, pady=5)
+    input_send_mail = Entry(mail_window, width=30)
+    input_send_mail.grid(column=0, row=0)
+    
+    send_button = Button(mail_window, text='Send', command=lambda: send(input_send_mail))
+    send_button.grid(column=1, row=2)
+     
+    
+def send(input_send_mail):
+    send_mail = input_send_mail.get()
+    
+    if not re.search(r"^\w+@\w+\.\w+$", send_mail):
+        messagebox.showwarning(title="Warning", message="Invalid email address!")
+        return
+
+    mail = os.getenv('MAIL')
+    password = os.getenv('PASSWORD')
+    recipients = send_mail
+    subject = 'Data Export'
+    smtp_server = 'smtp.gmail.com'
+    smtp_port = 587
+    
+    msg = MIMEMultipart()
+    msg['From'] = mail
+    msg['To'] = recipients
+    msg['Subject'] = subject
+    
+    body = "Please find the attached data.json file."
+    body_part = MIMEText(body, 'plain')
+    msg.attach(body_part)
+
+    script_directory = os.path.dirname(__file__)
+    data_file_path = os.path.join(script_directory, 'data', 'data.json')
+
+    try:
+        with open(data_file_path, 'rb') as file:
+            file_part = MIMEApplication(file.read(), Name="data.json")
+            file_part['Content-Disposition'] = 'attachment; filename="data.json"'
+            msg.attach(file_part)
+    except Exception as e:
+        messagebox.showerror(title="Error", message=f"Could not attach file: {e}")
+        return
+
+    try:
+        with smtplib.SMTP(smtp_server, smtp_port) as connection:
+            connection.starttls()
+            connection.login(user=mail, password=password)
+            connection.sendmail(from_addr=mail, to_addrs=recipients, msg=msg.as_string())
+        messagebox.showinfo(title="Success", message="Email sent successfully!")
+    except Exception as e:
+        messagebox.showerror(title="Error", message=f"Error sending email: {e}")
+    
 
 # User Interface
 window = Tk()
@@ -58,9 +123,11 @@ canvas.grid(column=0, row=0, columnspan=2)
 ok_button = PhotoImage(file='./data/Day031_FlashCards/images/right.png')
 false_button = PhotoImage(file='./data/Day031_FlashCards/images/wrong.png')
 correct_button = Button(image=ok_button, highlightthickness=0, command=is_known)
-correct_button.grid(column=1, row=2)
+correct_button.grid(column=2, row=2)
 wrong_button = Button(image=false_button, highlightthickness=0, command=next_card)
 wrong_button.grid(column=0, row=2)
+send_button = Button(text='Send to mail', command=send_to_mail)
+send_button.grid(column=1, row=3)
 
 next_card()
 window.mainloop()

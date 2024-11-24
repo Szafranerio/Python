@@ -47,13 +47,11 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 48,48,en chef,a boss
 49,49,en kollega,a colleague
 50,50,et møde,a meeting
-51,51,en forretning,a business
 52,52,en beslutning,a decision
 53,53,en samtale,a conversation
 54,54,en computer,a computer
 55,55,internettet,the internet
 56,56,en e-mail,an email
-57,58,en avis,a newspaper
 58,59,en artikel,an article
 59,61,en ferie,a holiday
 60,63,et tog,a train
@@ -67,7 +65,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 68,71,en station,a station
 69,72,et hotel,a hotel
 70,73,en restaurant,a restaurant
-71,74,en café,a cafe
 72,75,mad,food
 73,76,en drik,a drink
 75,78,kaffe,coffee
@@ -96,7 +93,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 100,103,en smag,a taste
 101,104,en menu,a menu
 102,105,en regning,a bill
-103,106,at betale,to pay
 104,107,et kort,a card
 105,108,en butik,a shop
 106,109,et supermarked,a supermarket
@@ -108,7 +104,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 112,118,et ur,a watch
 113,119,smykker,jewelry
 114,120,ringe,rings
-115,121,øreringe,earrings
 116,122,en taske,a bag
 117,123,en paraply,an umbrella
 118,124,briller,glasses
@@ -117,7 +112,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 121,127,en sygeplejerske,a nurse
 122,128,et hospital,a hospital
 123,129,en klinik,a clinic
-124,130,medicin,medicine
 125,131,en pille,a pill
 126,132,syg,sick
 127,133,sund,healthy
@@ -126,7 +120,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 130,136,en hånd,a hand
 131,137,en fod,a foot
 132,138,et ben,a leg
-133,139,et øje,an eye
 134,140,et øre,an ear
 135,141,en næse,a nose
 136,142,en mund,a mouth
@@ -138,7 +131,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 142,148,et hjerte,a heart
 143,149,blod,blood
 144,150,en knogle,a bone
-145,151,muskler,muscles
 146,152,luft,air
 147,153,vand,water
 148,154,ild,fire
@@ -165,7 +157,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 170,177,en måne,a moon
 171,178,en stjerne,a star
 172,179,vejret,the weather
-173,180,solskin,sunshine
 174,181,regn,rain
 175,182,vind,wind
 176,183,sne,snow
@@ -178,7 +169,6 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 183,190,en nat,a night
 184,191,en morgen,a morning
 185,192,en aften,an evening
-186,193,en uge,a week
 187,194,en måned,a month
 188,195,et år,a year
 189,196,tid,time
@@ -189,11 +179,8 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 194,201,musik,music
 195,202,en film,a movie
 196,203,et teater,a theater
-197,204,kunst,art
 198,205,et maleri,a painting
 200,207,et museum,a museum
-201,208,en udstilling,an exhibition
-202,209,en ballet,a ballet
 203,210,en koncert,a concert
 204,211,en opera,an opera
 205,212,dans,dance
@@ -201,5 +188,4 @@ Unnamed: 0.1,Unnamed: 0,Danish,English
 207,214,et symbol,a symbol
 208,215,et sprog,a language
 209,216,et ord,a word
-210,217,en sætning,a sentence
 212,219,alfabetet,the alphabet
