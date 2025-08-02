@@ -6,7 +6,7 @@ from matplotlib.colors import ListedColormap
 from collections import Counter
 
 # Define colors for plotting (one for each class)
-cmap = ListedColormap(['#FF0000', '#00FF00', '#0000FF'])
+cmap = ListedColormap(['#FF0000', '#00FF00', "#0000FF"])
 
 # Load the Iris dataset from scikit-learn
 iris = datasets.load_iris()
