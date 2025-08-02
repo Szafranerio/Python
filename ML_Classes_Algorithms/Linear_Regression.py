@@ -17,7 +17,7 @@ print(X_train.shape)
 print(y_train.shape)
 
 class LinearRegression:
-    def __init__(self, lr = 0.01, n_iters = 1000):
+    def __init__(self, lr = 0.1, n_iters = 100):
         self.lr = lr
         self.n_iters = n_iters
         self.weight = None
@@ -29,6 +29,7 @@ class LinearRegression:
         self.weight = np.zeros(n_features)
         self.bias = 0.0
         
+        # Gradient descent
         for _ in range(self.n_iters):
             y_predicted = np.dot(X, self.weight) + self.bias
             dw = (1/n_samples) * np.dot(X.T, (y_predicted - y))
