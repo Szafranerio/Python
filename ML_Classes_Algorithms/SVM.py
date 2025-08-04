@@ -12,14 +12,14 @@ class SVM():
         self.n_iters = n_iters
         self.w = None
         self.b = None
-        
+
     def fit (self, X, y):
         y_ = np.where(y <= 0, -1, 1)
         n_samples, n_features = X.shape
-        
+
         self.w = np.zeros(n_features)
         self.b = 0
-        
+  
         for _ in range(self.n_iters):
             for idx, x_i in enumerate(X):
                 condition = y_[idx] * (np.dot(x_i, self.w) - self.b) >= 1
@@ -28,20 +28,19 @@ class SVM():
                 else:
                     self.w -= self.lr * (2 * self.lambda_param * self.w - np.dot(x_i, y_[idx]))
                     self.b -= self.lr * y_[idx]
-    
+
     def predict(self, X):
         linear_output = np.dot(X, self.w) - self.b
         return np.sign(linear_output)
-    
+  
 svm = SVM()
 svm.fit(X, y)
 print(svm.w, svm.b)
 
-
 def visualize_svm():
     def hyperplane_value(x, w, b, offset):
         return (-w[0] * x + b + offset) / w[1]
-    
+
     fig = plt.figure()
     ax = fig.add_subplot(1, 1, 1)
     plt.scatter(X[:, 0], X[:, 1], marker="o", c=y)
